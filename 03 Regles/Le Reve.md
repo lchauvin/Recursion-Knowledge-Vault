@@ -56,7 +56,11 @@ Le Rêve abrite plusieurs milliards de personnes : c'est la plus grande civilisa
 
 **En jeu :** repérer une anomalie demande Intuition ou Onirisme, difficulté 1 ou 2. Les dormeurs ordinaires ne les voient pas ; les Lucides les connaissent bien. Une anomalie peut tromper, car une section qui se dégrade produit aussi des bugs : message des Bergers ou simple [[Erosion et Ancrage|Érosion]], aux joueurs d'interpréter. Enfin, chaque personnage qui plie le Rêve laisse lui-même une anomalie : c'est ce que les Bergers repèrent, et ce que mesure la Vigilance.
 
+**Le temps du Rêve :** il suit celui du monde réel. Une heure passée dans le Rêve est une heure de moins sur l'échéance du dehors, et un dormeur emporté il y a huit ans a vécu huit ans dans le Rêve. Dans les sections qui se défont, le temps peut *sembler* ralenti (une heure dorée qui ne finit pas, un midi qui dure), mais les horloges du dehors tournent normalement.
+
 **Un mystère de synchronisation :** la lumière met plus d'une heure à aller de la Terre à Saturne. Le Rêve tourne peut-être légèrement ralenti pour rester synchronisé, sans que les dormeurs s'en aperçoivent. Comment les Bergers y parviennent reste un mystère.
+
+**Option (brouillon) : une section ralentie.** Dans une section mourante, le Berger peut faire tourner la simulation au ralenti pour économiser l'énergie : le décalage devient alors réel. Chaque heure passée dans cette section compte double sur le compte à rebours du monde réel. À utiliser rarement, comme un danger propre à un lieu.
 
 **Le prix :** chaque usage reste un arbitrage entre le temps qui passe, la Vigilance, l'Emprise et un corps vulnérable à garder. Le Rêve est utile, jamais gratuit.
 
