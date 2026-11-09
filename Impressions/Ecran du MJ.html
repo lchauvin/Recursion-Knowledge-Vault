@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Écran du MJ</title>
+<style>
+  @page { size: A4 landscape; margin: 8mm; }
+  * { box-sizing: border-box; }
+  body { margin: 0; padding: 8mm; font: 8.4pt/1.32 Georgia, "Times New Roman", serif; color: #1d1d1f; background: #fff; }
+  header { display: flex; justify-content: space-between; align-items: baseline; border-bottom: 2px solid #2b3a55; margin-bottom: 3mm; padding-bottom: 1mm; }
+  header h1 { font-size: 14pt; margin: 0; color: #2b3a55; letter-spacing: .5px; }
+  header span { font-style: italic; color: #555; }
+  .cols { display: grid; grid-template-columns: repeat(4, 1fr); gap: 4mm; }
+  section { border-left: 3px solid #c9a227; padding-left: 2.5mm; }
+  h2 { font: bold 10pt Georgia, serif; color: #2b3a55; margin: 0 0 1.5mm; text-transform: uppercase; letter-spacing: .6px; }
+  h3 { font-size: 8.6pt; margin: 2mm 0 .6mm; color: #7a5c00; }
+  p, ul { margin: 0 0 1.2mm; }
+  ul { padding-left: 3.5mm; }
+  li { margin-bottom: .5mm; }
+  table { width: 100%; border-collapse: collapse; margin: .8mm 0 1.5mm; }
+  th, td { border-bottom: 1px solid #ddd; padding: .4mm 1mm; text-align: left; vertical-align: top; }
+  th { background: #eef1f6; font-weight: bold; }
+  b { color: #2b3a55; }
+  .q { font-style: italic; color: #444; }
+  @media screen { body { max-width: 297mm; margin: 0 auto; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>Recursion&nbsp;: l'ère de l'Érosion · Écran du MJ</h1>
+  <span>Brouillon · détail dans le coffre&nbsp;: 03 Regles/Ecran du MJ</span>
+</header>
+<div class="cols">
+
+<section>
+  <h2>1. Les jets</h2>
+  <ul>
+    <li><b>Jet&nbsp;:</b> Attribut + Compétence en d6. Chaque <b>5 ou 6</b> = 1 réussite. Toujours au moins 1 dé.</li>
+    <li><b>Difficulté&nbsp;:</b> 1 ordinaire · 2 difficile · 3 vrai obstacle · 4 exploit. Sans enjeu, pas de jet.</li>
+    <li><b>Réussite partielle&nbsp;:</b> une réussite de moins (au moins 1) = réussite avec complication. Jamais avec le Calcul.</li>
+    <li><b>Bonus ou malus non chiffré&nbsp;:</b> 1 dé.</li>
+    <li><b>Étincelle&nbsp;:</b> 1 point + approche vraiment nouvelle → les <b>4</b> comptent aussi.</li>
+    <li><b>Calcul&nbsp;:</b> 1 réussite auto pour 3 dés (arrondi inf.). <b>Jamais face aux Échos.</b></li>
+    <li><b>Synchronisation&nbsp;:</b> un seul lance, + dés = niveau du Lien.</li>
+    <li><b>Fatigue créative&nbsp;:</b> 0 Étincelle → −1 dé partout jusqu'au repos (Tardif&nbsp;: ne peut plus dépenser).</li>
+  </ul>
+  <table>
+    <tr><th>PNJ</th><th>Poignée</th><th>Blessures</th></tr>
+    <tr><td>Figurant</td><td>4 dés</td><td>Hors de combat dès une grave</td></tr>
+    <tr><td>Adversaire sérieux</td><td>6 dés</td><td>Normales</td></tr>
+    <tr><td>Personnage majeur</td><td>7–8 dés</td><td>Normales</td></tr>
+  </table>
+  <h3>Récompenses</h3>
+  <p>Idée originale&nbsp;: +1 Étincelle (2 fois par séance).<br>
+  Plan créatif sur un obstacle majeur&nbsp;: +1 Étincelle par humain, −1 Érosion par machine liée (1 fois par séance).</p>
+</section>
+
+<section>
+  <h2>2. Le danger</h2>
+  <p><b>Attaque&nbsp;:</b> Combat ou Tir. 1 réussite pour toucher, 2 à couvert. Esquive (Athlétisme)&nbsp;: chaque réussite en annule une.<br>
+  <b>Dégâts</b> = arme + réussites en trop − protection (1 gilet, 2 armure lourde).</p>
+  <table>
+    <tr><th>Arme</th><th>Dégâts</th></tr>
+    <tr><td>Mains nues, couteau</td><td>1</td></tr>
+    <tr><td>Arme de poing, lame</td><td>2</td></tr>
+    <tr><td>Arme lourde</td><td>3</td></tr>
+  </table>
+  <table>
+    <tr><th>Dégâts</th><th>Blessure</th></tr>
+    <tr><td>1–2</td><td>Légère&nbsp;: −1 dé</td></tr>
+    <tr><td>3–4</td><td>Grave&nbsp;: −2 dés, soins nécessaires</td></tr>
+    <tr><td>5+</td><td>Critique&nbsp;: hors de combat, mourant</td></tr>
+  </table>
+  <p>2 légères = 1 grave · 2 graves = 1 critique.<br>
+  <b>Point de rupture&nbsp;:</b> la moitié d'un camp gravement blessée → fuite, reddition ou négociation.</p>
+  <h3>Soins et repos</h3>
+  <ul>
+    <li><b>Une pause&nbsp;:</b> premiers soins (1), le malus d'une légère disparaît.</li>
+    <li><b>Une nuit&nbsp;:</b> toute l'Étincelle, fin de la Fatigue et de l'Emprise, les légères guérissent.</li>
+    <li><b>Une semaine de soins (2)&nbsp;:</b> une grave devient légère.</li>
+    <li><b>Critique&nbsp;:</b> stabiliser (1 au calme, 2 sous le feu).</li>
+    <li>Le repos ne réduit <b>jamais</b> l'Érosion.</li>
+  </ul>
+  <h3>Toujours</h3>
+  <p>Trois voies&nbsp;: force, ruse, parole. L'échec coûte, mais l'histoire avance.</p>
+</section>
+
+<section>
+  <h2>3. Le Rêve</h2>
+  <p><b>Plier le Rêve&nbsp;:</b> Esprit + Onirisme.<br>
+  1 un détail · 2 l'environnement · 3 les lois physiques, localement · 4 tout un lieu.<br>
+  +1 réussite face aux Gardiens. Jamais les esprits.</p>
+  <p><b>Vigilance (0–6)&nbsp;:</b> +1 par modification visible et par échec. Chaque point = 1 modification des Bergers.<br>
+  <b>3</b> → Gardiens · <b>6</b> → Portes fermées.</p>
+  <p><b>Emprise&nbsp;:</b> Esprit (1 réussite) à chaque fois qu'on plie le Rêve ; + niveau du Lien si le partenaire garde le corps.<br>
+  1er échec → oublie la mission, −1 dé · 2e échec → refuse de partir.</p>
+  <p><b>Blessures oniriques</b> (légère / grave / critique)&nbsp;:<br>
+  humain −1 / −2 / −3 Étincelle (critique&nbsp;: éjection) · machine +1 / +2 / +3 Érosion.</p>
+  <p><b>Faire douter un dormeur&nbsp;:</b> Persuasion ou Intuition.<br>
+  1 il doute déjà · 2 ordinaire · 3 heureux et entouré.</p>
+  <h3>Érosion</h3>
+  <table>
+    <tr><td>0–2 Stable</td><td>Aucun effet</td></tr>
+    <tr><td>3–4 Usure</td><td>Un tic ; chaque paire de 1 annule une réussite</td></tr>
+    <tr><td>5–6 Rigidité</td><td>Calcul&nbsp;: 1 pour 4 dés ; le MJ peut effacer un souvenir</td></tr>
+    <tr><td>7–8 Dérive</td><td>−1 dé partout ; Esprit pour agir contre ses habitudes</td></tr>
+    <tr><td>9 Seuil</td><td>Esprit difficile en début de séance, sinon bug majeur</td></tr>
+    <tr><td>10 Écho</td><td>Le joueur perd le contrôle</td></tr>
+  </table>
+</section>
+
+<section>
+  <h2>4. PNJ et bilan</h2>
+  <table>
+    <tr><th>Faction</th><th>Ce qu'elle veut</th></tr>
+    <tr><td>Bergers</td><td>Soigner, garder les dormeurs endormis <span class="q">«&nbsp;Ils dorment en paix.&nbsp;»</span></td></tr>
+    <tr><td>Nexus</td><td>Partenariat libre, réveil consenti <span class="q">«&nbsp;Où je les couche&nbsp;?&nbsp;»</span></td></tr>
+    <tr><td>Purs</td><td>Vivre sans machine pensante <span class="q">«&nbsp;Ta machine reste dehors.&nbsp;»</span></td></tr>
+    <tr><td>Église</td><td>Prévoir, guider <span class="q">«&nbsp;72 % de chances que vous veniez.&nbsp;»</span></td></tr>
+    <tr><td>Échos</td><td>Rien&nbsp;: une boucle <span class="q">«&nbsp;Code d'accès&nbsp;?&nbsp;»</span></td></tr>
+    <tr><td>Gardiens</td><td>Neutraliser les intrus <span class="q">«&nbsp;Tout va bien.&nbsp;»</span></td></tr>
+  </table>
+  <h3>Un dormeur apprend la vérité (d6)</h3>
+  <p>1 déni · 2 peur · 3 colère · 4 marchandage · 5 curiosité inquiète · 6 soulagement.<br>
+  +1 si sa section se défait, −1 s'il est heureux et entouré.</p>
+  <h3>Les joueurs s'écartent du prévu</h3>
+  <ul>
+    <li>Que font les PNJ pendant ce temps&nbsp;?</li>
+    <li>Qu'est-ce que cette action aggrave&nbsp;?</li>
+    <li>Quel dilemme peut-elle faire naître&nbsp;?</li>
+  </ul>
+  <p>«&nbsp;Oui, et…&nbsp;» ou «&nbsp;oui, mais…&nbsp;» plutôt que «&nbsp;non&nbsp;».</p>
+  <h3>Bilan de fin de séance</h3>
+  <ol style="margin:0;padding-left:4mm">
+    <li>Moment partagé machine / humain lié&nbsp;? Oui −1 Érosion, non +1. Résonance +1 de plus.</li>
+    <li>Incarné soigné&nbsp;? Sinon −1 Étincelle.</li>
+    <li>Moment de vérité, Percée ou Ancre&nbsp;?</li>
+    <li>XP&nbsp;: 1 + 1 par objectif, plan créatif, moment de vérité, Épreuve de confiance.</li>
+  </ol>
+</section>
+
+</div>
+</body>
+</html>

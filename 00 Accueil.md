@@ -59,6 +59,7 @@ Le sommaire du coffre. Pour savoir comment il fonctionne, voir [[README - Commen
 
 - [[Augmentations]]
 - [[Boite a outils du MJ|Boîte à outils du MJ]]
+- [[Ecran du MJ|Écran du MJ]]
 - [[Combat]]
 - [[Composition du groupe]]
 - [[Creation de personnage|Création de personnage]]
