@@ -22,7 +22,7 @@ visibilite: joueurs
 | 3 à 4 | Grave | −2 dés ; soins médicaux nécessaires |
 | 5 et plus | Critique | Hors de combat, mourant sans soins |
 
-Deux blessures légères font une grave, deux graves font une critique. Un seul bon tir peut suffire. Une blessure légère guérit après un repos ; une grave demande des soins (Médecine, ou Ingénierie pour une machine) et quelques jours.
+Deux blessures légères font une grave, deux graves font une critique. Un seul bon tir peut suffire. Une blessure légère guérit après un repos ; une grave demande des soins (Médecine, ou Ingénierie pour une machine) et quelques jours. Voir [[Soins et repos]].
 
 - **Les séquelles :** une blessure grave mal soignée laisse une trace durable. Le personnage vit avec ce handicap ou accepte une prothèse, c'est-à-dire une augmentation majeure, avec son coût en [[Etincelle et Percee|Étincelle]].
 - **Les machines :** mêmes règles, réparées avec Ingénierie. Une machine en blessure critique risque la destruction, et donc la restauration depuis une sauvegarde (+2 [[Erosion et Ancrage|Érosion]]).
@@ -35,3 +35,4 @@ Deux blessures légères font une grave, deux graves font une critique. Un seul 
 
 - [[Resoudre plutot que combattre|Résoudre plutôt que combattre]]
 - [[Systeme de base|Système de base]]
+- [[Soins et repos]]

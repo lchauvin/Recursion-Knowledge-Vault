@@ -66,6 +66,7 @@ Le sommaire du coffre. Pour savoir comment il fonctionne, voir [[README - Commen
 - [[Le Reve|Le Rêve]]
 - [[Progression]]
 - [[Resoudre plutot que combattre|Résoudre plutôt que combattre]]
+- [[Soins et repos]]
 - [[Systeme de base|Système de base]]
 - [[Erosion et Ancrage|Érosion et Ancrage]]
 - [[Etincelle et Percee|Étincelle et Percée]]
