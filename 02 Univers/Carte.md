@@ -65,13 +65,13 @@ Les lieux placés dans l'encadré réservé au MJ, et ceux dont la page est rés
 | Les colonies cachées | La Ceinture d'astéroïdes | lieu | 7 | 250 |  | Des dizaines de petites communautés dont l'emplacement est un secret. On n'y entre qu'invité. |
 | [[Les Ruches]] | La Ceinture d'astéroïdes | ruche | 4.5 | 300 |  |  |
 | [[La flotte de la Transhumance]] | La Ceinture d'astéroïdes | flotte | 8 | 80 | Grand-Halte |  |
-| La Draille | La flotte de la Transhumance | station | 0.8 | 0 |  | Le vaisseau-amiral, un ancien transporteur de la mission qui emmène désormais les réveillés dans l'autre sens. |
-| Le Réveil | La Draille | lieu | 0.16 | 90 |  | L'infirmerie des dormeurs fraîchement réveillés, qui apprennent à respirer, à manger, à tenir debout. |
-| Le Mur des noms choisis | La Draille | lieu | 0.18 | 30 |  | Une paroi où chaque réveillé écrit le nom qu'il s'est choisi. |
-| Le Marché | La Draille | lieu | 0.15 | 330 |  | Une coursive où l'on échange tout, des pièces détachées aux chansons. |
-| Les Serres | La Draille | zone | 0.17 | 260 |  | Le seul endroit à bord où il fait chaud et où ça sent la terre. |
-| La Salle du Conseil | La Draille | lieu | 0.14 | 200 |  | Où le conseil de la flotte décide des routes, des haltes et des sauvetages. |
-| Les hangars | La Draille | lieu | 0.18 | 150 |  | Les navettes de la flotte. |
+| Le Primus | La flotte de la Transhumance | station | 0.8 | 0 |  | Le vaisseau-amiral, un ancien transporteur de la mission qui emmène désormais les réveillés dans l'autre sens. |
+| Le Réveil | Le Primus | lieu | 0.16 | 90 |  | L'infirmerie des dormeurs fraîchement réveillés, qui apprennent à respirer, à manger, à tenir debout. |
+| Le Mur des noms choisis | Le Primus | lieu | 0.18 | 30 |  | Une paroi où chaque réveillé écrit le nom qu'il s'est choisi. |
+| Le Marché | Le Primus | lieu | 0.15 | 330 |  | Une coursive où l'on échange tout, des pièces détachées aux chansons. |
+| Les Serres | Le Primus | zone | 0.17 | 260 |  | Le seul endroit à bord où il fait chaud et où ça sent la terre. |
+| La Salle du Conseil | Le Primus | lieu | 0.14 | 200 |  | Où le conseil de la flotte décide des routes, des haltes et des sauvetages. |
+| Les hangars | Le Primus | lieu | 0.18 | 150 |  | Les navettes de la flotte. |
 
 ## Le système extérieur et au-delà
 

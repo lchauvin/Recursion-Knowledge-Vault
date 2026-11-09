@@ -71,6 +71,7 @@ Le sommaire du coffre. Pour savoir comment il fonctionne, voir [[README - Commen
 - [[Systeme de base|Système de base]]
 - [[Erosion et Ancrage|Érosion et Ancrage]]
 - [[Etincelle et Percee|Étincelle et Percée]]
+- [[Jouer les PNJ]]
 
 ## Personnages non joueurs
 

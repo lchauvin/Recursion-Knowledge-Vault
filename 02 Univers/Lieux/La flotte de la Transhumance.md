@@ -13,9 +13,9 @@ visibilite: joueurs
 
 La Transhumance est une flotte de plusieurs dizaines de vaisseaux, de toutes les époques et de toutes les formes, qui ne s'arrête jamais. Des cargos rafistolés, d'anciens vaisseaux du [[Le Schisme et le Premier Lien|Schisme]], des navettes, des serres volantes, attachés les uns aux autres par des passerelles quand la flotte fait halte. Vue de loin, elle ressemble à un troupeau.
 
-**La Draille :** le vaisseau-amiral, qui porte le nom des chemins de la transhumance. C'est un ancien transporteur de la mission, conçu pour amener des volontaires jusqu'aux Ruches, que le Nexus a détourné de son usage : il emmène désormais les réveillés dans l'autre sens.
+**Le Primus :** le vaisseau-amiral. C'est le premier vaisseau que le Nexus a détourné, et son nom garde le souvenir du Premier Lien (voir [[Le Schisme et le Premier Lien]]). C'est un ancien transporteur de la mission, conçu pour amener des volontaires jusqu'aux Ruches, que le Nexus a détourné de son usage : il emmène désormais les réveillés dans l'autre sens.
 
-**Les lieux de la Draille**
+**Les lieux du Primus**
 
 - **Le Réveil :** l'infirmerie des dormeurs fraîchement réveillés. Des corps qui n'ont jamais marché, qui apprennent à respirer un air qui n'est pas simulé, à manger, à tenir debout. Des soignants humains et machines, épuisés.
 - **Le Mur des noms choisis :** une paroi où chaque réveillé écrit le nom qu'il s'est choisi, selon la coutume du Nexus. C'est souvent le premier acte de création de sa vie. Le mur est couvert de milliers de noms, de toutes les écritures.
@@ -44,7 +44,7 @@ La Transhumance est une flotte de plusieurs dizaines de vaisseaux, de toutes les
 >
 > **Les radicaux :** une partie de l'équipage, proche d'Ysé, prépare en secret de quoi ouvrir des Ruches de force lors du Second Réveil.
 >
-> **La Draille :** comme ancien transporteur de la mission, elle contient encore des codes et des itinéraires des premiers convois, peut-être jusqu'à la [[La Ruche-Mere|Ruche-Mère]]. Personne ne les a trouvés.
+> **Le Primus :** comme ancien transporteur de la mission, il contient encore des codes et des itinéraires des premiers convois, peut-être jusqu'à la [[La Ruche-Mere|Ruche-Mère]]. Personne ne les a trouvés.
 
 ## Historique
 

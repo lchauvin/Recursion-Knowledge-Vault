@@ -36,7 +36,7 @@ Les humains se soignent avec Médecine, les machines se réparent avec Ingénier
 | Situation | Soin | Difficulté | Résultat |
 | --- | --- | --- | --- |
 | Blessure légère | Premiers soins, pendant une pause de quelques minutes | 1 | Le malus disparaît jusqu'au prochain repos, qui guérit la blessure. Une seule fois par blessure |
-| Blessure grave | Soins médicaux, avec du matériel | 2 (1 dans une vraie infirmerie, comme le Réveil de la [[La flotte de la Transhumance\|Draille]]) | En une semaine environ, elle devient légère, puis guérit au repos suivant |
+| Blessure grave | Soins médicaux, avec du matériel | 2 (1 dans une vraie infirmerie, comme le Réveil du [[La flotte de la Transhumance\|Primus]]) | En une semaine environ, elle devient légère, puis guérit au repos suivant |
 | Blessure grave non soignée | Aucun | | Elle finit par guérir, mais laisse une séquelle |
 | Blessure critique | Stabiliser, sur place | 1 au calme, 2 sous le feu | Le personnage ne meurt plus, mais reste hors de combat. Une fois dans une infirmerie, il se soigne comme une blessure grave |
 
@@ -67,7 +67,7 @@ Les blessures subies dans le Rêve frappent l'esprit, pas le corps : Médecine n
 > [!mj]- Réservé au MJ
 > Ces règles sont un brouillon à tester en partie, avec [[La Ruche silencieuse]] par exemple. Les chiffres (difficultés, une semaine, une case de compte à rebours) suivent la [[Boite a outils du MJ|Boîte à outils du MJ]] et peuvent être ajustés.
 >
-> Le repos est aussi un outil de rythme. Une nuit à bord de la Draille, chez les Purs ou dans une colonie de la Ceinture est une bonne occasion de placer une scène de respiration, une rencontre ou une conséquence qui revient.
+> Le repos est aussi un outil de rythme. Une nuit à bord du Primus, chez les Purs ou dans une colonie de la Ceinture est une bonne occasion de placer une scène de respiration, une rencontre ou une conséquence qui revient.
 
 ## Voir aussi
 
