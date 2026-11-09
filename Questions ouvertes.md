@@ -6,7 +6,7 @@ visibilite: mj
 
 # Questions ouvertes
 
-- [ ] Valider ou écarter les inspirations suggérées (voir [[Inspirations]])
+- [x] Valider ou écarter les inspirations suggérées (voir [[Inspirations]])
 - [ ] Tester les chiffres en partie ([[Etincelle et Percee|Étincelle]], Liens, [[Erosion et Ancrage|Érosion]]), avec [[La Ruche silencieuse]]
 - [x] Confirmer le calendrier : présent du jeu en 400 AR (voir [[Chronique du monde]])
 - [ ] Valider le brouillon [[Le monde en 400 AR]]
