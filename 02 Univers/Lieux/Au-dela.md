@@ -28,7 +28,7 @@ Pendant l'extinction, les machines se sont répandues dans le système solaire e
 
 ## Ce qu'on peut y faire
 
-- **Atteindre la Lisière :** une expédition de plusieurs mois, pour une campagne lointaine.
+- **Atteindre la Lisière :** une expédition d'un an ou plus (voir [[Voyager dans le systeme|Voyager dans le système]]), pour une campagne lointaine.
 - **Déchiffrer un Phare :** une énigme, peut-être une piste.
 - **Garder une frontière :** c'est l'horizon des campagnes à venir, à ouvrir quand le MJ le souhaite.
 
