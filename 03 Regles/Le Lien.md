@@ -37,6 +37,8 @@ Le Lien apporte de la nouveauté : c'est une relation asymétrique et complémen
 | Garder le corps pendant une intrusion dans le [[Le Reve\|Rêve]] | Être auprès du corps |
 | Accès aux sens et aux données, partage d'Étincelle, émotions ressenties, Écho de douleur | Pouvoir se parler en direct : même lieu, même vaisseau, quelques dizaines de kilomètres au plus |
 
+**Pas de télépathie :** à portée, le Lien permet de se coordonner sans un mot, mais chacun dans sa langue. La machine montre ce qu'elle perçoit (une ronde, un plan, une image) ; elle ressent l'intention de l'humain (avancer, attendre, fuir) sans savoir pourquoi. Un plan précis, une nuance ou une idée nouvelle demandent des mots. Avec le niveau du Lien, la compréhension s'affine (au niveau 3, la machine finit les phrases de son humain), sans autre effet que la Synchronisation. Seule la [[La Resonance|Résonance]], entre deux machines, permet une vraie conversation silencieuse.
+
 **Le prix de la séparation :** une machine qui passe une séance sans moment partagé avec son humain lié gagne 1 point d'[[Erosion et Ancrage|Érosion]] (voir ci-dessus). Se séparer est toujours possible, mais une longue séparation use la machine.
 
 **Se retrouver dans le Rêve :** un humain et sa machine séparés par des planètes peuvent se retrouver dans le Rêve, l'un en rêvant, l'autre en lisant le code, et y vivre leur moment partagé. Il faut une Porte de chaque côté, et chaque intrusion compte pour la Vigilance (voir [[Voyager dans le systeme|Voyager dans le système]]).
