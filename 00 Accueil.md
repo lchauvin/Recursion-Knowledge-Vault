@@ -96,6 +96,7 @@ Le sommaire du coffre. Pour savoir comment il fonctionne, voir [[README - Commen
 ## Pour les joueurs
 
 - [[Presentation pour les joueurs|Présentation pour les joueurs]]
+- [[Livret du joueur]]
 
 ## Campagnes
 
