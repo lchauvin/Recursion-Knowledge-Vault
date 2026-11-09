@@ -54,6 +54,7 @@ Le sommaire du coffre. Pour savoir comment il fonctionne, voir [[README - Commen
 - [[Masques]]
 - [[Peuples jouables]]
 - [[Eveilles|Éveillés]]
+- [[L aspect des machines|L'aspect des machines]]
 
 ## Règles
 
