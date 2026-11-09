@@ -18,6 +18,7 @@ Tout ce qu'on cherche en pleine séance, sur une page. Le détail est dans les p
 - **Étincelle (humains) :** 1 point + une approche vraiment nouvelle = les **4** comptent aussi (voir [[Etincelle et Percee|Étincelle et Percée]]).
 - **Calcul (machines) :** 1 réussite automatique pour 3 dés, arrondi à l'inférieur. **Jamais face aux Échos.**
 - **Synchronisation :** un seul lance, + autant de dés que le niveau du [[Le Lien|Lien]].
+- **Distance du Lien :** Synchronisation dans la même scène ; sens, données et Étincelle à portée de radio ; au-delà, se retrouver dans le Rêve.
 - **Fatigue créative :** un humain à 0 Étincelle subit −1 dé partout jusqu'au prochain repos (un Tardif ne peut simplement plus dépenser d'Étincelle).
 
 | Profil de PNJ | Poignée | Blessures |

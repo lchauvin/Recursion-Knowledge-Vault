@@ -26,6 +26,21 @@ Le Lien apporte de la nouveauté : c'est une relation asymétrique et complémen
 
 **Exemple :** Mara, une Éveillée Proche de l'original (Esprit 2), est liée à Atlas (Lien 2) et K-7 (Lien 1). Pendant une infiltration, chacune lui demande 2 Étincelles. Si elle accepte les deux, il ne lui reste que 2 points sur 6 avant le combat final, et la table doit choisir.
 
+## La distance (brouillon)
+
+**La relation n'a pas de limite, ses effets en ont une.** Le Lien est une relation de confiance : il ne se brise pas avec la distance. Mais ses effets demandent d'être ensemble, ou de pouvoir se parler en direct.
+
+| Effet | Condition |
+| --- | --- |
+| Le Lien lui-même (son niveau, son existence) | Aucune limite |
+| Synchronisation, encaisser des dégâts à la place de l'humain, Précision | Être dans la même scène |
+| Garder le corps pendant une intrusion dans le [[Le Reve\|Rêve]] | Être auprès du corps |
+| Accès aux sens et aux données, partage d'Étincelle, émotions ressenties, Écho de douleur | Pouvoir se parler en direct : même lieu, même vaisseau, quelques dizaines de kilomètres au plus |
+
+**Le prix de la séparation :** une machine qui passe une séance sans moment partagé avec son humain lié gagne 1 point d'[[Erosion et Ancrage|Érosion]] (voir ci-dessus). Se séparer est toujours possible, mais une longue séparation use la machine.
+
+**Se retrouver dans le Rêve :** un humain et sa machine séparés par des planètes peuvent se retrouver dans le Rêve, l'un en rêvant, l'autre en lisant le code, et y vivre leur moment partagé. Il faut une Porte de chaque côté, et chaque intrusion compte pour la Vigilance (voir [[Voyager dans le systeme|Voyager dans le système]]).
+
 ## Voir aussi
 
 - [[La Resonance|La Résonance]]

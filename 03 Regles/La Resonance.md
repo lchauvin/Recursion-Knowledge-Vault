@@ -11,7 +11,7 @@ La Résonance amplifie ce qui existe déjà : elle est efficace mais appauvrissa
 
 **Pour les deux machines**
 
-- **Avantages :** chacune peut utiliser la meilleure compétence de l'autre ; communication instantanée à distance ; [[Le Lien|Synchronisation]] entre elles, comme un Lien de même niveau.
+- **Avantages :** chacune peut utiliser la meilleure compétence de l'autre ; communication instantanée à portée de radio, sans avoir à parler ; [[Le Lien|Synchronisation]] entre elles, comme un Lien de même niveau.
 - **Inconvénients :** +1 Érosion à chaque fin de séance, qui s'ajoute au −1 d'un éventuel Lien avec un humain ; un piratage ou un virus qui touche l'une touche aussi l'autre.
 
 **Selon l'état de chaque machine**
