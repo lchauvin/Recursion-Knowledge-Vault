@@ -54,7 +54,7 @@ Deux légères = une grave, deux graves = une critique. **Point de rupture :** l
 
 **Emprise :** jet d'Esprit (1 réussite) à chaque fois qu'on plie le Rêve ; + niveau du Lien si le partenaire garde le corps. **1er échec** → oublie la mission, −1 dé · **2e échec** → refuse de partir.
 
-**Blessures oniriques :** légère / grave / critique = humain −1 / −2 / −3 Étincelle (critique : éjection) · machine +1 / +2 / +3 Érosion.
+**Blessures oniriques :** légère / grave / critique = humain −1 / −2 / −3 Étincelle (critique : éjection) · machine +1 / +2 / +3 Érosion. On ne meurt pas dans le Rêve : la mort vient du corps laissé dehors, et le personnage la sent venir (une scène pour sortir).
 
 **Faire douter un dormeur :** Persuasion ou Intuition · **1** il doute déjà · **2** ordinaire · **3** heureux et entouré (voir [[Jouer les PNJ]]).
 

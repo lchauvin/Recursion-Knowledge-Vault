@@ -101,6 +101,7 @@ Le Rêve abrite plusieurs milliards de personnes : c'est la plus grande civilisa
 
 - **Blessures oniriques :** elles frappent l'esprit. Une blessure légère coûte 1 Étincelle à un humain, une grave 2, une critique 3 et l'éjection ; une machine gagne autant de points d'Érosion. Un humain à 0 Étincelle est éjecté et subit la Fatigue créative.
 - **L'Emprise :** chaque fois que le personnage plie le Rêve, et en mode chronométré à chaque heure passée dans le Rêve, jet d'Esprit (1 réussite). Le partenaire lié qui garde le corps ajoute autant de dés que le niveau du Lien ; les [[Eveilles|Éveillés]] Tardifs subissent −1 dé. Premier échec : le personnage oublie peu à peu sa mission et subit −1 dé dans le Rêve. Second échec : il refuse de partir, et seule une aide extérieure (un jet de Piratage de son partenaire) peut l'extraire.
+- **Mourir dans le Rêve ? (brouillon)** On ne meurt pas dans le Rêve : au pire, un humain est éjecté ou capturé (voir plus bas). La mort vient de dehors. Si le corps est menacé pendant une intrusion (capsule qui lâche, gardien absent, attaque), le personnage le ressent dans le Rêve, comme les dormeurs : froid, épuisement, cauchemars. Il a alors une scène pour sortir avant qu'il soit trop tard. Pour une machine, la vraie perte est l'[[Erosion et Ancrage|Érosion]] : à 10, elle devient un Écho.
 
 **Sortir de l'Emprise**
 
