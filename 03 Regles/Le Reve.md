@@ -72,6 +72,20 @@ Le Rêve abrite plusieurs milliards de personnes : c'est la plus grande civilisa
 - Le corps reste vulnérable dans le monde réel et doit être gardé, souvent par un partenaire lié.
 - Pour sortir, il faut rejoindre une Porte. Si elles sont fermées, seul un partenaire à l'extérieur peut extraire le personnage, avec un jet de Piratage. La déconnexion forcée reste toujours possible (voir Vigilance au maximum).
 
+**Où trouver une Porte (brouillon)**
+
+Les Portes sont nombreuses là où sont les dormeurs, et rares ailleurs.
+
+| Lieu | Portes | Le vrai problème |
+| --- | --- | --- |
+| Une [[Les Ruches\|Ruche]] | Partout : chaque capsule peut servir de Porte | Entrer dans la Ruche, et y garder son corps |
+| Le [[Nexus]] (le [[La flotte de la Transhumance\|Primus]], ses bases) | Un ou deux terminaux piratés | Ils sont précieux et surveillés ; on attend parfois son tour |
+| Les [[Bergers]] | Leurs relais | Ils sont sûrs, mais on entre chez eux, sous leurs yeux |
+| Ailleurs (la Terre sauvage, les épaves, la Ceinture) | Presque aucune | Il faut apporter sa Porte (une capsule récupérée, un terminal de fortune) ou avoir une [[Augmentations\|interface neurale]] |
+| Chez les [[Purs]] | Aucune | Ils détruisent celles qu'ils trouvent |
+
+À la table, la question est rarement « y a-t-il une Porte ? », mais plutôt « qui la contrôle, et qui garde mon corps ? ».
+
 **Plier le Rêve :** un jet d'Esprit + Onirisme. Dépenser une [[Etincelle et Percee|Étincelle]] sur ce jet, en décrivant une idée vraiment nouvelle, est particulièrement efficace.
 
 | Réussites | Ampleur |
