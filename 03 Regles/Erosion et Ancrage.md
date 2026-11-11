@@ -20,7 +20,8 @@ L'Érosion va de 0 à 10 : la machine se répète, se rigidifie, puis se dissout
 | Séance en [[La Resonance|Résonance]] | +1 |
 | Rupture d'un Lien | +2 |
 | Restauration depuis une sauvegarde après destruction | +2 |
-| Absorption des données d'une autre machine, ou infection par un Écho | +1 |
+| Absorption des données d'une autre machine, ou infection par un Écho (au contact) | +1 |
+| Contagion en piratant une machine érodée, Écho compris (jet d'Esprit raté, voir [[Systeme de base\|Système de base]]) | +1 à +3 (un tiers de l'Érosion de la cible) |
 | Fin de séance avec un Lien actif (−1 au maximum, quel que soit le nombre de Liens) | −1 |
 | [[Etincelle et Percee|Percée]] de son humain lié | −1 |
 
