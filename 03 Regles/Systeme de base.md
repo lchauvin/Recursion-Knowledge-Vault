@@ -39,6 +39,21 @@ On lance une poignée de d6 égale à Attribut + Compétence, plus ou moins les 
 
 **Exemple :** une machine avec Intellect 4 et Piratage 3 a une poignée de 7 dés. En Calcul, elle obtient 2 réussites garanties ; en lançant, elle peut en obtenir 0 comme 4. Un humain avec la même poignée qui dépense une Étincelle obtient en moyenne 3 à 4 réussites.
 
+## Pirater une machine (brouillon)
+
+**On pirate un corps et des données, jamais une conscience.** Pirater un système (des tourelles, une porte, un registre, le réseau des [[Bergers]]) est un jet de Piratage ordinaire. Pirater une machine consciente est plus rare et plus grave.
+
+- **Le jet :** Intellect + Piratage de l'attaquant, opposé à Esprit + Piratage de la cible. Le Calcul est permis des deux côtés, sauf face à un [[Echos|Écho]]. Une cible au Seuil de l'[[Erosion et Ancrage|Érosion]] ne peut pas utiliser le Calcul pour se défendre.
+- **Une cible érodée se défend mal :** les effets de ses paliers d'Érosion s'appliquent à son jet de défense (paires de 1 en Usure, Calcul dégradé en Rigidité, −1 dé en Dérive).
+- **Ce qu'on peut obtenir :** couper un sens, ralentir la cible (−1 dé pendant un échange), lire une donnée précise, ouvrir un accès, ou brouiller ses communications.
+- **Ce qu'on ne peut jamais obtenir :** contrôler ses pensées, lui faire vouloir ou dire quelque chose, modifier sa personnalité ou ses souvenirs. Comme dans le [[Le Reve|Rêve]], le code se plie, les esprits non.
+- **La contagion :** pirater une machine dont l'Érosion atteint 3 ou plus demande ensuite un jet d'Esprit de l'attaquant (1 réussite), jamais avec le Calcul. En cas d'échec, l'attaquant gagne un tiers de l'Érosion de la cible, arrondi à l'inférieur : +1 face à une cible à 3, 4 ou 5 ; +2 à 6, 7 ou 8 ; +3 à 9 ou 10. Les effets de l'Érosion de l'attaquant s'appliquent à ce jet : une machine en Dérive y subit −1 dé. Plus une cible est érodée, plus elle est facile à pirater, et plus elle est dangereuse.
+- **Pirater un Écho :** la contagion suit la règle ci-dessus (+3 en cas d'échec). Être simplement touché par un Écho, au contact, reste à +1 (voir [[Echos|Échos]]).
+- **Les conséquences :** pirater une machine est une agression, même quand elle ne s'en aperçoit pas. Si la cible le découvre, la confiance est perdue ; si elle est liée à un humain, ce dernier le ressent. Pirater un Berger déclenche l'alerte de sa Ruche ou de sa flotte, et fait monter la Vigilance si l'on est dans le Rêve.
+- **Deux machines en [[La Resonance|Résonance]]** partagent le piratage : ce qui touche l'une touche l'autre.
+
+**Conseil au MJ :** pirater les systèmes d'une machine (ses capsules, ses drones, ses archives) est presque toujours plus simple, et plus dans le ton du jeu, que de pirater la machine elle-même. Rappelez-le aux joueurs avant le jet.
+
 ## Voir aussi
 
 - [[Etincelle et Percee|Étincelle et Percée]]
