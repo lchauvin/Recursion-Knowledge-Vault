@@ -25,6 +25,14 @@ visibilite: joueurs
 | Régulateur émotionnel | +2 dés pour résister à la peur, à la manipulation et à l'Emprise | −1 dé en Persuasion et en Intuition (froideur) |
 | Système de survie | Respirer dans le vide ou un air toxique ; +2 dés en Survie | Sans maintenance à chaque séance, −1 dé aux actions physiques |
 
+**Obtenir une augmentation**
+
+Une augmentation ne s'achète pas avec l'expérience : son seul prix est l'Étincelle (ou l'Érosion pour un module). Elle s'obtient dans l'histoire.
+
+- **Trouver qui opère :** un chirurgien, un ingénieur ou un atelier clandestin. C'est un obstacle comme un autre, avec ses trois voies (voir [[Boite a outils du MJ|Boîte à outils du MJ]]) : convaincre, rendre un service, passer par un réseau. Le service demandé peut devenir une petite mission ou une dette que le MJ rappellera plus tard.
+- **L'opération :** un jet d'Ingénierie (poser des implants), par le praticien ou par un personnage joueur. Une complication rend l'effet secondaire plus visible ou laisse une séquelle temporaire.
+- **Pas d'autre coût :** la perte d'Étincelle maximale et de plafond suffit.
+
 ## Voir aussi
 
 - [[Hybrides]]

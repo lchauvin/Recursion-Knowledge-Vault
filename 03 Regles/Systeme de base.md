@@ -27,9 +27,9 @@ On lance une poignée de d6 égale à Attribut + Compétence, plus ou moins les 
 
 **Compétences (0 à 5)**
 
-- **Physiques :** Athlétisme, Combat, Tir, Discrétion, Pilotage, Survie.
-- **Techniques :** Ingénierie (réparer, construire, poser des implants), Piratage, Médecine, Savoir (histoire, factions, Prévision).
-- **Sociales :** Persuasion, Tromperie, Intuition (lire les autres, repérer un mensonge ou un Masque).
+- **Physiques :** Athlétisme (courir, sauter, grimper, nager), Combat (se battre au corps à corps), Tir (armes à distance, viser juste), Discrétion (se cacher, passer inaperçu), Pilotage (vaisseaux, navettes, véhicules), Survie (milieux hostiles, s'orienter, pister).
+- **Techniques :** Ingénierie (réparer, construire, poser des implants), Piratage (systèmes, réseaux, machines), Médecine (soigner, diagnostiquer, opérer), Savoir (histoire, factions, Prévision).
+- **Sociales :** Persuasion (convaincre, négocier, inspirer), Tromperie (mentir, bluffer, jouer un rôle), Intuition (lire les autres, repérer un mensonge ou un Masque).
 - **Spéciale :** Onirisme, l'art d'agir dans le [[Le Reve|Rêve]], d'en comprendre et d'en plier les règles.
 
 **Humains et machines**
