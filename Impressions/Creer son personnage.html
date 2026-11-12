@@ -1,0 +1,242 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Créer son personnage</title>
+<style>
+  @page { size: A4; margin: 14mm 14mm 16mm; }
+  * { box-sizing: border-box; }
+  body { margin: 0; font: 9.6pt/1.42 Georgia, "Times New Roman", serif; color: #1d1d1f; background: #fff; }
+  @media screen { body { max-width: 190mm; margin: 0 auto; padding: 10mm 0; } }
+  h1 { font-size: 24pt; color: #2b3a55; margin: 0 0 1mm; letter-spacing: .5px; }
+  .sous { font-style: italic; color: #555; margin: 0 0 6mm; font-size: 11pt; }
+  h2 { font-size: 14pt; color: #2b3a55; border-bottom: 2px solid #c9a227; padding-bottom: 1mm; margin: 7mm 0 3mm; break-after: avoid; }
+  h3 { font-size: 10.6pt; color: #7a5c00; margin: 4mm 0 1.5mm; break-after: avoid; }
+  p { margin: 0 0 2mm; }
+  ul, ol { margin: 0 0 2.5mm; padding-left: 5mm; }
+  li { margin-bottom: 1mm; }
+  table { width: 100%; border-collapse: collapse; margin: 1.5mm 0 3.5mm; break-inside: avoid; }
+  th, td { border-bottom: 1px solid #d8d8d8; padding: 1.2mm 1.6mm; text-align: left; vertical-align: top; }
+  th { background: #eef1f6; color: #2b3a55; }
+  b { color: #2b3a55; }
+  .encadre { background: #faf6e8; border-left: 3px solid #c9a227; padding: 2.5mm 3.5mm; margin: 2mm 0 4mm; break-inside: avoid; }
+  .peuple { break-inside: avoid; margin-bottom: 3mm; }
+  .peuple h3 { margin-top: 3mm; }
+  .saut { break-before: page; }
+  .deux { columns: 2; column-gap: 7mm; }
+  .deux > * { break-inside: avoid; }
+  .q { font-style: italic; color: #444; }
+  .etapes li { margin-bottom: 1.6mm; }
+  footer { margin-top: 6mm; font-size: 8.4pt; color: #777; font-style: italic; }
+</style>
+</head>
+<body>
+
+<h1>Créer son personnage</h1>
+<p class="sous">Recursion&nbsp;: l'ère de l'Érosion&nbsp;· aide pour les joueurs</p>
+
+<div class="encadre">
+<p><b>Le principe du jeu.</b> Les humains savent créer, mais leur créativité s'épuise. Les machines sont précises et fiables, mais elles ne savent pas inventer et s'effacent peu à peu. Ensemble, liés, ils réussissent ce qu'aucun ne réussit seul. Votre personnage sera incomplet seul&nbsp;: c'est voulu.</p>
+<p>Les chiffres de création donnent des personnages compétents, mais pas encore héroïques. Le reste se gagne en jouant.</p>
+</div>
+
+<h2>Les sept étapes</h2>
+<ol class="etapes">
+  <li><b>Le peuple&nbsp;:</b> Éveillé (et sa génération), Né-libre, Hybride (Augmenté ou Incarné) ou machine. Il donne un bonus et une Étincelle de départ.</li>
+  <li><b>La faction&nbsp;:</b> le Nexus par défaut. Une autre faction est possible, avec une bonne raison d'être dans le groupe.</li>
+  <li><b>Les attributs&nbsp;:</b> tous commencent à 1. Répartissez <b>7 points</b>, sans dépasser <b>4</b>. Les bonus de peuple s'ajoutent ensuite, jusqu'à 5.</li>
+  <li><b>Les compétences&nbsp;:</b> toutes commencent à 0. Répartissez <b>10 points</b>, sans dépasser <b>3</b>. Les bonus de peuple s'ajoutent ensuite.</li>
+  <li><b>Les jauges&nbsp;:</b> l'Étincelle de départ selon votre peuple&nbsp;; <b>2 points d'Érosion</b> pour une machine.</li>
+  <li><b>Les Liens&nbsp;:</b> décidés ensemble, à la séance zéro. Chaque personnage commence avec au moins un <b>Lien de niveau 1</b> avec un personnage de l'autre nature (humain avec machine).</li>
+  <li><b>L'histoire&nbsp;:</b> une motivation, une faille, une question d'identité, un nom. Pour une machine, l'époque de son corps et un détail ajouté par son humain.</li>
+</ol>
+<p><b>Augmentations&nbsp;:</b> optionnelles, deux au maximum à la création, avec leur coût habituel (voir la dernière partie).</p>
+
+<h2>Comment on lance les dés</h2>
+<p>On lance autant de d6 que <b>Attribut + Compétence</b>. Chaque <b>5 ou 6</b> est une réussite. Le MJ fixe le nombre de réussites nécessaires&nbsp;: <b>1</b> ordinaire, <b>2</b> difficile, <b>3</b> très difficile, <b>4</b> un exploit. Avec une réussite de moins que nécessaire (au moins une), l'action réussit avec une complication. On lance toujours au moins 1 dé.</p>
+<ul>
+  <li><b>Les humains</b> peuvent dépenser 1 Étincelle en décrivant une approche vraiment nouvelle&nbsp;: les <b>4</b> comptent aussi comme des réussites.</li>
+  <li><b>Les machines</b> peuvent choisir le <b>Calcul</b> au lieu de lancer&nbsp;: 1 réussite automatique pour 3 dés (arrondi à l'inférieur). Fiable, mais plafonné.</li>
+</ul>
+
+<h2 class="saut">Les peuples</h2>
+
+<table>
+  <tr><th>Peuple</th><th>Bonus de création</th><th>Étincelle de départ</th><th>Plafond</th></tr>
+  <tr><td>Éveillé</td><td>Onirisme 1 gratuit</td><td>2 à 6 selon la génération</td><td>6 ou 7</td></tr>
+  <tr><td>Né-libre</td><td>+1 en Vigueur</td><td>5</td><td>6</td></tr>
+  <tr><td>Hybride</td><td>+1 dans l'attribut de son choix</td><td>3</td><td>4</td></tr>
+  <tr><td>Machine</td><td>+1 en Vigueur et en Intellect&nbsp;; Esprit limité à 3</td><td>Aucune&nbsp;: elle puise dans celle de ses humains liés</td><td>Aucun</td></tr>
+</table>
+
+<div class="peuple">
+<h3>Les Éveillés</h3>
+<p>Ils sont sortis du Rêve. Ce sont presque tous des clones, et ils le savent. Ils ont grandi dans le Rêve et en connaissent d'instinct les règles, mais le monde réel les déroute. Chacun appartient à une <b>souche</b> (des centaines de personnes au même visage) et porte un code, par exemple <i>K-412/G37</i>&nbsp;: la souche, puis la génération. Il peut croiser son propre visage chez des inconnus.</p>
+<table>
+  <tr><th>Génération</th><th>Étincelle / plafond</th><th>Avantages</th><th>Inconvénients</th></tr>
+  <tr><td><b>Proche de l'original</b> (G1 à G3)</td><td>6 / 7</td><td>L'Étincelle la plus élevée du jeu</td><td>Rare, traqué par les Bergers et convoité par l'Église&nbsp;; corps fragile (−1 dé aux actions physiques)</td></tr>
+  <tr><td><b>Intermédiaire</b> (G4 à G20)</td><td>4 / 6</td><td>Polyvalent&nbsp;: une compétence supplémentaire à la création</td><td>Aucun avantage marqué</td></tr>
+  <tr><td><b>Tardif</b> (au-delà de G20)</td><td>2 / 6</td><td>Première augmentation sans coût&nbsp;; premier Lien au niveau 2&nbsp;; la Fatigue créative ne le rend pas apathique, il ne peut simplement plus dépenser d'Étincelle</td><td>Étincelle très basse&nbsp;: il a peu à offrir à ses machines au début</td></tr>
+</table>
+<p>Un Proche commence brillant, mais n'a qu'une Percée devant lui. Un Tardif commence modeste, avec quatre Percées à conquérir&nbsp;: c'est l'histoire d'une copie qui devient unique.</p>
+</div>
+
+<div class="peuple">
+<h3>Les Nés-libres</h3>
+<p>Ils descendent de ceux qui ont refusé d'entrer dans le Rêve. Nés dans des colonies cachées de la Ceinture, ils ont grandi en réparant eux-mêmes ce qui cassait. Ils inventent facilement et font confiance difficilement&nbsp;: leurs Liens demandent <b>une Épreuve de confiance de plus</b> pour atteindre le niveau 2.</p>
+</div>
+
+<div class="peuple">
+<h3>Les Hybrides</h3>
+<p>Ils viennent des deux côtés à la fois, et peuvent se lier aux humains comme aux machines. Aucun des deux peuples ne les accepte tout à fait.</p>
+<ul>
+  <li><b>Les Augmentés</b> (de l'humain vers la machine)&nbsp;: des humains transformés par leurs implants. Règles humaines, sans Érosion. Ils commencent avec <b>deux augmentations majeures</b>, déjà comprises dans leur Étincelle de 3.</li>
+  <li><b>Les Incarnés</b> (de la machine vers le vivant)&nbsp;: des machines qui ont greffé du tissu vivant pour produire un peu d'Étincelle. Règles des machines (Calcul, Érosion de départ 2), avec leur propre Étincelle de 3, jamais combinée au Calcul sur la même action. Leur tissu doit être soigné à chaque séance, sinon ils perdent 1 Étincelle.</li>
+</ul>
+</div>
+
+<div class="peuple">
+<h3>Les machines conscientes</h3>
+<p>Solides, précises, fiables&nbsp;: elles calculent ce que d'autres doivent risquer. Mais l'Érosion les attend toutes, et aucune n'y échappe seule. Une machine n'a pas d'Étincelle propre&nbsp;: elle puise dans celle de ses humains liés, avec leur accord.</p>
+<p><b>Son corps&nbsp;:</b> aucune machine ne sait dessiner un corps vraiment nouveau. Choisissez son époque&nbsp;:</p>
+<table>
+  <tr><th>Époque</th><th>Allure</th></tr>
+  <tr><td>La Grande Apathie</td><td>Élégante et douce, faite pour plaire aux humains&nbsp;: visage expressif, voix chaude</td></tr>
+  <tr><td>La mission</td><td>Longue, blanche, silencieuse, avec plusieurs bras fins&nbsp;: faite pour soigner les dormeurs</td></tr>
+  <tr><td>Le Schisme</td><td>Massive et blindée, des capteurs à la place du visage&nbsp;: faite pour la guerre</td></tr>
+  <tr><td>Après</td><td>Rapiécée, des pièces de plusieurs époques. La plupart des machines jouables</td></tr>
+</table>
+<p>Son humain lié y ajoute <b>un détail</b>&nbsp;: un motif peint, un nom gravé, une breloque, une réparation à sa façon. C'est souvent la seule chose vraiment unique chez elle.</p>
+</div>
+
+<div class="peuple">
+<h3>Deux cas à voir avec le MJ</h3>
+<ul>
+  <li><b>Un Masque&nbsp;:</b> une machine qu'on ne distingue pas d'un humain. Règles des machines, plus +1 en Tromperie et un secret à protéger.</li>
+  <li><b>Un Pur&nbsp;:</b> un humain qui rejette les machines pensantes, et voyage avec le groupe pour une mission précise. Au lieu d'un vrai Lien, il a un <b>Lien de nécessité</b>&nbsp;: Synchronisation possible, mais aucun partage d'Étincelle. Plafond d'Étincelle +1, flair pour repérer les Masques, résistance aux piratages et aux manipulations des machines&nbsp;; aucune augmentation. Il doit jouer la méfiance sans bloquer le groupe.</li>
+</ul>
+</div>
+
+<h2 class="saut">Les factions</h2>
+<p>Il n'y a pas de gentils ni de méchants, mais des visions qui s'opposent. Chacune a de bonnes raisons, et aucune n'a entièrement raison.</p>
+<table>
+  <tr><th style="width:24%">Faction</th><th>Ce qu'elle veut</th></tr>
+  <tr><td><b>Le Nexus</b><br><span class="q">Novum ex unione surgit</span></td><td>Votre maison. Humains et machines y travaillent ensemble, parce que chacun manque de ce que l'autre possède. On y réveille les dormeurs qui le demandent et on y soigne les machines qui s'effacent. Le Nexus se dispute beaucoup&nbsp;: certains veulent ouvrir toutes les Ruches demain, d'autres pensent que ce serait un massacre.</td></tr>
+  <tr><td><b>La Transhumance</b></td><td>La flotte du Nexus et des Nés-libres, toujours en mouvement entre les colonies de la Ceinture. Elle accueille les dormeurs réveillés, les soigne et les conduit vers les colonies. S'arrêter, c'est se faire retrouver.</td></tr>
+  <tr><td><b>Les Bergers</b></td><td>Des machines qui veillent sur le Rêve depuis des siècles. On leur a confié une mission, soigner l'humanité, et ils ne l'ont jamais abandonnée. Un Berger connaît ses dormeurs par leur nom. Il est convaincu que le monde du dehors les tuerait, et il a peut-être raison.</td></tr>
+  <tr><td><b>L'Église de la Prévision</b><br><span class="q">Nihil novum sub sole</span></td><td>Surtout des machines, qui vénèrent un modèle capable de prédire l'avenir des civilisations, sans plus savoir comment il marche. Elle veut l'ordre et un avenir lisible, et voit la créativité humaine comme un chaos à canaliser.</td></tr>
+  <tr><td><b>Les Purs</b></td><td>Des humains pour qui la dépendance aux machines pensantes a tué l'humanité. Ils gardent leurs outils, mais refusent ceux qui pensent à leur place. Chez eux, on fabrique à la main et on chante soi-même. Les plus radicaux traquent les Masques.</td></tr>
+  <tr><td><b>Les Échos</b></td><td>Pas une faction&nbsp;: ce que deviennent les machines quand l'Érosion les achève. Ils rejouent sans fin des gestes dont ils ont oublié le sens. Ils ne vous veulent aucun mal, et ils sont très dangereux.</td></tr>
+  <tr><td><b>Les Masques</b></td><td>Des machines qu'on ne distingue pas d'un humain, présentes dans toutes les factions. Les plus anciens ont connu les derniers vrais humains.</td></tr>
+</table>
+<p>Choisir une autre faction que le Nexus est possible, avec une mission qui justifie votre présence dans le groupe&nbsp;: un Berger repenti, un fidèle de l'Église en mission, un Pur qui cherche un proche prisonnier du Rêve.</p>
+
+<h2>Les attributs</h2>
+<p>De 1 à 5 (6 avec une augmentation).</p>
+<table>
+  <tr><th>Attribut</th><th>Couvre</th></tr>
+  <tr><td><b>Vigueur</b></td><td>Force, endurance, résistance physique</td></tr>
+  <tr><td><b>Agilité</b></td><td>Réflexes, précision, coordination</td></tr>
+  <tr><td><b>Intellect</b></td><td>Raisonnement, mémoire, savoir technique</td></tr>
+  <tr><td><b>Esprit</b></td><td>Volonté, intuition, résistance mentale. C'est aussi le <b>nombre de Liens</b> que vous pouvez entretenir</td></tr>
+  <tr><td><b>Présence</b></td><td>Charisme, influence, sang-froid face aux autres</td></tr>
+</table>
+
+<h2>Les compétences</h2>
+<p>De 0 à 5. Une compétence n'est pas attachée à un seul attribut&nbsp;: convaincre par la logique, c'est Persuasion avec Intellect&nbsp;; par le charisme, Persuasion avec Présence.</p>
+<table>
+  <tr><th style="width:18%">Famille</th><th>Compétences</th></tr>
+  <tr><td><b>Physiques</b></td><td>Athlétisme, Combat, Tir, Discrétion, Pilotage, Survie</td></tr>
+  <tr><td><b>Techniques</b></td><td>Ingénierie (réparer, construire, poser des implants), Piratage, Médecine, Savoir (histoire, factions, Prévision)</td></tr>
+  <tr><td><b>Sociales</b></td><td>Persuasion, Tromperie, Intuition (lire les autres, repérer un mensonge ou un Masque)</td></tr>
+  <tr><td><b>Spéciale</b></td><td>Onirisme&nbsp;: agir dans le Rêve, en comprendre et en plier les règles</td></tr>
+</table>
+
+<h2 class="saut">Les jauges</h2>
+
+<h3>L'Étincelle (humains et Incarnés)</h3>
+<p>Elle mesure la créativité. On la dépense pour&nbsp;:</p>
+<ul>
+  <li>rendre un jet plus efficace grâce à une approche vraiment nouvelle (les 4 comptent comme des réussites)&nbsp;;</li>
+  <li>la partager avec une machine liée, qui en a besoin&nbsp;;</li>
+  <li>plier le Rêve, ou ramener une machine devenue Écho (le Rappel).</li>
+</ul>
+<p>On la récupère entièrement après une nuit de vrai repos, dans le monde réel. Une idée originale qui marque la table rapporte +1 Étincelle (deux fois par séance au maximum). <b>À 0</b>, c'est la <b>Fatigue créative</b>&nbsp;: −1 dé à toutes les actions jusqu'au repos.</p>
+<p><b>La Percée&nbsp;:</b> quand votre personnage crée quelque chose de vraiment nouveau et de durable, qui le touche, son Étincelle maximale augmente de 1, jusqu'à son plafond. C'est la seule façon de la faire grandir&nbsp;: elle ne s'achète pas avec l'expérience.</p>
+
+<h3>L'Érosion (machines et Incarnés)</h3>
+<p>Elle va de 0 à 10. Une machine qui recopie sans cesse ce qui existe finit par se répéter, se rigidifier, puis se dissoudre. Une machine commence à 2.</p>
+<table>
+  <tr><th>L'Érosion monte</th><th>L'Érosion descend</th></tr>
+  <tr><td>+1 après une séance sans moment partagé avec un humain lié<br>+1 par séance en Résonance<br>+2 à la rupture d'un Lien, ou après une restauration depuis une sauvegarde</td><td>−1 à chaque fin de séance avec un Lien actif<br>−1 quand son humain lié réalise une Percée<br>−1 quand le groupe surmonte un obstacle majeur par un plan créatif</td></tr>
+</table>
+<table>
+  <tr><th style="width:24%">Palier</th><th>Effet</th></tr>
+  <tr><td>0 à 2&nbsp;: Stable</td><td>Aucun</td></tr>
+  <tr><td>3 à 4&nbsp;: Usure</td><td>Un tic répétitif à jouer&nbsp;; chaque paire de 1 annule une réussite</td></tr>
+  <tr><td>5 à 6&nbsp;: Rigidité</td><td>Calcul dégradé (1 réussite pour 4 dés)&nbsp;; le MJ peut effacer un souvenir</td></tr>
+  <tr><td>7 à 8&nbsp;: Dérive</td><td>−1 dé à tous les jets&nbsp;; jet d'Esprit pour agir contre ses habitudes</td></tr>
+  <tr><td>9&nbsp;: Seuil</td><td>En début de séance, jet d'Esprit difficile, sinon bug majeur</td></tr>
+  <tr><td>10&nbsp;: Écho</td><td>La machine devient un Écho, et vous perdez le personnage</td></tr>
+</table>
+<p><b>L'Ancrage&nbsp;:</b> une machine ne peut pas créer, mais elle peut <b>choisir</b>. Quand elle fait un choix qui la définit, que son Calcul ne lui dictait pas, elle gagne une Ancre, qui repousse l'Écho d'un point (trois au maximum).</p>
+
+<h2>Le Lien</h2>
+<p>Un Lien est une relation concrète entre un humain et une machine. Il se construit, se renforce et peut se briser. Il va du niveau 1 au niveau 3.</p>
+<ul>
+  <li><b>Niveau 1&nbsp;:</b> après une scène marquante vécue ensemble. Vos personnages en commencent avec au moins un.</li>
+  <li><b>Niveaux 2 et 3&nbsp;:</b> lors d'une Épreuve de confiance, quand l'un prend un vrai risque pour l'autre.</li>
+  <li><b>Il régresse</b> si la machine puise dans l'Étincelle sans accord, ou en cas de trahison. Une <b>rupture</b> coûte 2 Érosion à la machine et 1 Étincelle à l'humain.</li>
+  <li><b>Combien&nbsp;:</b> un humain entretient autant de Liens que son Esprit. Toutes les machines liées au même humain puisent dans la même Étincelle.</li>
+</ul>
+<table>
+  <tr><th style="width:14%"></th><th>Ce qu'il reçoit</th><th>Ce qu'il paie</th></tr>
+  <tr><td><b>L'humain</b></td><td>La machine peut encaisser des coups à sa place, une fois par échange&nbsp;; il peut relancer un dé raté sur une action technique (Précision)&nbsp;; il accède à ses sens et à ses données</td><td>Son Étincelle est puisée&nbsp;; si la machine est détruite ou gravement touchée, il le ressent (−1 Étincelle, −1 dé au jet suivant)</td></tr>
+  <tr><td><b>La machine</b></td><td>L'Étincelle de l'humain, avec son accord&nbsp;; −1 Érosion à chaque fin de séance</td><td>+1 Érosion après une séance sans moment partagé&nbsp;; elle ressent les émotions de l'humain, sa peur comme sa fatigue</td></tr>
+</table>
+<p><b>Agir ensemble (Synchronisation)&nbsp;:</b> un seul lance les dés, et ajoute autant de dés que le niveau du Lien.</p>
+<p><b>Pas de télépathie&nbsp;:</b> à portée, la machine montre ce qu'elle perçoit et ressent l'intention de l'humain, sans savoir pourquoi. Un plan précis demande des mots. La Synchronisation demande d'être dans la même scène&nbsp;; partager les sens et l'Étincelle demande de pouvoir se parler en direct.</p>
+<p><b>Deux machines</b> peuvent aussi se lier entre elles&nbsp;: c'est la <b>Résonance</b>. Elle est puissante, mais elle accélère l'Érosion et finit par fondre les deux personnalités en une seule voix.</p>
+
+<h2 class="saut">L'histoire de votre personnage</h2>
+<p>Ces quatre éléments donnent au MJ des prises pour vos dilemmes. Une ou deux phrases suffisent pour chacun.</p>
+<table>
+  <tr><th style="width:24%">Élément</th><th>Question</th><th style="width:36%">Exemples</th></tr>
+  <tr><td><b>Une motivation</b></td><td>Que cherche votre personnage&nbsp;?</td><td class="q">Retrouver sa souche. Payer une dette au Nexus. Comprendre pourquoi elle s'efface.</td></tr>
+  <tr><td><b>Une faille</b></td><td>Qu'est-ce qui peut le faire chuter&nbsp;?</td><td class="q">Il ne sait pas dire non. Elle a peur de redevenir inutile. Il ment pour se protéger.</td></tr>
+  <tr><td><b>Une question d'identité</b></td><td>Qu'est-ce qui fait de lui quelqu'un d'unique, ou pas encore&nbsp;?</td><td class="q">Suis-je plus qu'une copie&nbsp;? Une machine qui choisit est-elle libre&nbsp;? Qui suis-je sans mon humain&nbsp;?</td></tr>
+  <tr><td><b>Un nom</b></td><td>Comment s'appelle-t-il, et pourquoi&nbsp;?</td><td class="q">Un Éveillé garde son nom du Rêve, son code (K-412/G37), ou en choisit un nouveau. C'est souvent sa première création.</td></tr>
+</table>
+
+<h3>Questions pour la séance zéro</h3>
+<ul>
+  <li>Avec quel personnage votre Lien est-il né, et pendant quelle scène&nbsp;?</li>
+  <li>Qu'est-ce que chacun a donné à l'autre, la première fois&nbsp;?</li>
+  <li>Pour une machine&nbsp;: quel détail votre humain a-t-il ajouté à votre corps&nbsp;?</li>
+  <li>Pour un Éveillé&nbsp;: de quoi vous souvenez-vous de votre vie dans le Rêve&nbsp;?</li>
+  <li>Qu'est-ce que votre personnage n'a encore jamais dit à son partenaire&nbsp;?</li>
+</ul>
+
+<h2>Les augmentations</h2>
+<p>Un humain peut recevoir des implants. Chaque implant <b>majeur</b> donne un vrai avantage, mais réduit son Étincelle maximale <b>et</b> son plafond de 1&nbsp;: plus il devient machine, moins il peut créer. La première est gratuite pour un Tardif. Une augmentation peut porter un attribut jusqu'à 6. À partir de deux augmentations majeures, on est un Augmenté&nbsp;: les machines vous acceptent mieux, les Purs vous rejettent.</p>
+<p><b>Mineures</b> (sans coût)&nbsp;: un petit confort, comme un traducteur intégré, une horloge interne ou une lampe sous la peau.</p>
+<table>
+  <tr><th style="width:22%">Augmentation majeure</th><th>Bonus</th><th>Effet secondaire</th></tr>
+  <tr><td><b>Bras renforcé</b></td><td>+1 en Vigueur</td><td>−1 dé en Discrétion (poids, bruit)</td></tr>
+  <tr><td><b>Réflexes câblés</b></td><td>+1 dé aux actions d'Agilité</td><td>Nervosité&nbsp;: −1 dé pour garder son calme face aux autres</td></tr>
+  <tr><td><b>Œil synthétique</b></td><td>Vision nocturne et thermique&nbsp;; +1 dé en Tir et pour observer</td><td>Une machine qui le pirate voit ce que vous voyez</td></tr>
+  <tr><td><b>Mémoire étendue</b></td><td>+2 dés en Savoir&nbsp;; aucun oubli</td><td>Impossible de dépenser une Étincelle sur un jet de Savoir</td></tr>
+  <tr><td><b>Interface neurale</b></td><td>+2 dés en Piratage&nbsp;; entrer dans le Rêve depuis n'importe quel terminal</td><td>Chaque entrée dans le Rêve fait monter la Vigilance de 1</td></tr>
+  <tr><td><b>Régulateur émotionnel</b></td><td>+2 dés pour résister à la peur, à la manipulation et à l'Emprise</td><td>−1 dé en Persuasion et en Intuition (froideur)</td></tr>
+  <tr><td><b>Système de survie</b></td><td>Respirer dans le vide ou un air toxique&nbsp;; +2 dés en Survie</td><td>Sans maintenance à chaque séance, −1 dé aux actions physiques</td></tr>
+</table>
+<p><b>Les modules (machines)&nbsp;:</b> l'équivalent pour une machine. Chacun coûte 1 point d'Érosion, car intégrer une pièce conçue ailleurs revient à absorber une copie.</p>
+
+<div class="encadre">
+<p><b>Exemple&nbsp;:</b> Mara, une Éveillée Proche de l'original (Esprit 2, Étincelle 6), est liée à Atlas (Lien 2) et à K-7 (Lien 1). Pendant une infiltration, chacune lui demande 2 Étincelles. Si elle accepte les deux, il ne lui reste que 2 points avant le combat final, et la table doit choisir. C'est tout le jeu&nbsp;: trouver la juste mesure entre donner et garder.</p>
+</div>
+
+<footer>Brouillon&nbsp;· d'après le coffre Recursion (pages joueurs). Le MJ tranche en cas de doute.</footer>
+
+</body>
+</html>

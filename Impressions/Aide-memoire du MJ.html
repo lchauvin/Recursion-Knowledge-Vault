@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Aide-mémoire du MJ</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+  /* Pour modifier : changer le texte des lignes <span class="t">…</span><span>…</span>.
+     Chaque <section class="page"> est une page A4. Imprimer en PDF avec Chrome : marges « Aucune ». */
+  :root { --encre: #1C1B1A; --accent: #A8431A; --bleu: #2E4A68; --gris: #5A5752; --fond: #F3F0EA; }
+  @page { size: A4; margin: 0; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: #d9d6d0; color: var(--encre); font-family: 'IBM Plex Sans', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.45; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .page { width: 210mm; height: 297mm; overflow: hidden; margin: 10mm auto; padding: 48px 52px; background: #fff; display: flex; flex-direction: column; gap: 20px; break-after: page; }
+  .page:last-child { break-after: auto; }
+  @media print { body { background: #fff; } .page { margin: 0; } }
+  .titre { font-family: 'Chakra Petch', 'Arial Narrow', sans-serif; }
+  .entete { display: flex; justify-content: space-between; align-items: flex-end; border-bottom: 2px solid var(--encre); padding-bottom: 12px; }
+  .entete .gros { font-weight: 700; font-size: 30px; letter-spacing: .08em; line-height: 1; }
+  .entete .moyen { font-weight: 700; font-size: 22px; letter-spacing: .08em; }
+  .entete .petit { font-weight: 500; font-size: 14px; letter-spacing: .14em; color: var(--gris); margin-top: 4px; }
+  .entete .theme { font-weight: 600; font-size: 15px; letter-spacing: .1em; color: var(--accent); }
+  .bloc { display: flex; flex-direction: column; gap: 8px; }
+  h2 { margin: 0; font-family: 'Chakra Petch', 'Arial Narrow', sans-serif; font-weight: 600; font-size: 15px; letter-spacing: .1em; border-bottom: 1px solid var(--encre); padding-bottom: 4px; }
+  h2.bleu { color: var(--bleu); border-color: var(--bleu); }
+  h2.accent { color: var(--accent); border-color: var(--accent); }
+  .lignes { display: grid; grid-template-columns: 170px 1fr; column-gap: 16px; row-gap: 7px; }
+  .t { font-weight: 600; }
+  .t.accent { color: var(--accent); }
+  .t.bleu { color: var(--bleu); }
+  .nouveau { }
+  .paliers { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 6px; }
+  .paliers div { border: 1.5px solid var(--bleu); padding: 6px 8px; display: flex; flex-direction: column; gap: 2px; }
+  .paliers span + span { font-size: 12px; }
+  .paliers .fin { background: var(--bleu); color: #fff; }
+  ol { margin: 0; padding-left: 20px; display: flex; flex-direction: column; gap: 5px; }
+  .encadre { background: var(--fond); padding: 12px 16px; font-size: 12px; line-height: 1.5; }
+  .pied { margin-top: auto; display: flex; justify-content: space-between; font-size: 12px; color: var(--gris); }
+  .pied-encadre { margin-top: auto; display: flex; flex-direction: column; gap: 20px; }
+  .pied-encadre .pied { margin-top: 0; }
+</style>
+</head>
+<body>
+
+<!-- ============ PAGE 1&nbsp;: PENDANT LE JEU ============ -->
+<section class="page">
+  <div class="entete titre">
+    <div><div class="gros">RECURSION</div><div class="petit">AIDE-MÉMOIRE DU MJ</div></div>
+    <div class="theme">PENDANT LE JEU</div>
+  </div>
+
+  <div class="bloc">
+    <h2>PENDANT UN JET</h2>
+    <div class="lignes">
+      <span class="t">Poignée</span><span>Attribut + Compétence&nbsp;± modificateurs. Chaque 5 ou 6 est une réussite. Toujours au moins 1 dé.</span>
+      <span class="t">Difficulté</span><span>1 ordinaire&nbsp;· 2 difficile&nbsp;· 3 vrai obstacle&nbsp;· 4 exploit. Action sans enjeu&nbsp;: pas de jet.</span>
+      <span class="t">Réussite partielle</span><span>Une réussite de moins (au moins 1)&nbsp;: réussite avec une complication. Jamais avec le Calcul.</span>
+      <span class="t accent">Dépenser une Étincelle</span><span>Avant le jet, avec une approche vraiment nouvelle&nbsp;: les 4 comptent aussi comme des réussites.</span>
+      <span class="t accent">Fatigue créative</span><span>Un humain à 0 Étincelle&nbsp;: −1 dé à toutes ses actions jusqu’à une nuit de repos. Un Tardif n’a pas de malus, il ne peut simplement plus dépenser d’Étincelle.</span>
+      <span class="t bleu">Calcul</span><span>Au lieu de lancer&nbsp;: 1 réussite automatique pour 3 dés. Jamais face aux Échos. Au palier Rigidité&nbsp;: 1 pour 4 dés.</span>
+      <span class="t">Synchronisation</span><span>Deux personnages liés agissent ensemble, dans la même scène&nbsp;: un seul lance, avec autant de dés en plus que le niveau du Lien.</span>
+      <span class="t">Précision</span><span>Une machine liée permet à son humain de relancer un dé raté sur une action technique, une fois par jet.</span>
+      <span class="t">Bonus, malus</span><span>Sauf mention contraire&nbsp;: 1 dé.</span>
+    </div>
+  </div>
+
+  <div class="bloc">
+    <h2>PENDANT LA PARTIE</h2>
+    <div class="lignes">
+      <span class="t accent">Idée originale</span><span>Le joueur la réclame&nbsp;: +1 Étincelle. Deux fois par séance au maximum, jamais sur un jet où il a dépensé une Étincelle.</span>
+      <span class="t">Ingéniosité</span><span>Un obstacle majeur surmonté par un plan créatif&nbsp;: +1 Étincelle par humain, −1 Érosion par machine liée. Une fois par séance.</span>
+      <span class="t">Compte à rebours</span><span>+1 case à chaque échec. Mode libre&nbsp;: aussi quand le MJ juge que du temps a passé. Mode chronométré&nbsp;: au rythme du minuteur. Une nuit de repos&nbsp;: en général 1 case.</span>
+      <span class="t">Mode chronométré</span><span>Intervalle = temps de jeu réel ÷ heures dans l’histoire. Minuteur visible du MJ seul&nbsp;; il annonce chaque heure dans l’histoire et s’arrête pour les pauses et les questions de règles.</span>
+      <span class="t">Trois questions</span><span>Que font les personnages non joueurs&nbsp;? Qu’est-ce que cette action aggrave&nbsp;? Quel dilemme fait-elle naître&nbsp;?</span>
+    </div>
+  </div>
+
+  <div class="pied-encadre">
+    <div class="encadre"><span class="t">Règle d’or&nbsp;:</span> répondre&nbsp;«&nbsp;oui, et…&nbsp;» ou&nbsp;«&nbsp;oui, mais…&nbsp;» plutôt que&nbsp;«&nbsp;non&nbsp;». Les joueurs suivent leurs jauges et réclament leurs récompenses&nbsp;; le MJ valide.</div>
+    <div class="pied"><span>Recursion&nbsp;: l’ère de l’Érosion</span><span>Aide-mémoire 1 / 4</span></div>
+  </div>
+</section>
+
+<!-- ============ PAGE 2&nbsp;: COMBAT, SOINS, LIEN ============ -->
+<section class="page">
+  <div class="entete titre">
+    <div class="moyen">RECURSION&nbsp;· AIDE-MÉMOIRE DU MJ</div>
+    <div class="theme">COMBAT&nbsp;· SOINS&nbsp;· LIEN</div>
+  </div>
+
+  <div class="bloc">
+    <h2>COMBAT</h2>
+    <div class="lignes">
+      <span class="t">Toucher</span><span>Combat ou Tir&nbsp;: 1 réussite, 2 si la cible est à couvert. Esquive (Athlétisme)&nbsp;: chaque réussite en annule une.</span>
+      <span class="t">Dégâts</span><span>Arme (1 mains nues&nbsp;· 2 arme de poing ou lame&nbsp;· 3 arme lourde) + réussites en trop − protection (1 gilet&nbsp;· 2 armure lourde).</span>
+      <span class="t">Blessures</span><span>1–2 légère (−1 dé)&nbsp;· 3–4 grave (−2 dés, soins)&nbsp;· 5+ critique (hors de combat, mourant). Deux légères font une grave, deux graves font une critique.</span>
+      <span class="t">Figurants</span><span>Hors de combat dès une blessure grave. Poignée de 4 dés&nbsp;; adversaire sérieux 6&nbsp;; personnage majeur 7 à 8.</span>
+      <span class="t">Point de rupture</span><span>La moitié d’un camp gravement blessée&nbsp;: il fuit, se rend ou négocie. Sauf les Échos.</span>
+      <span class="t">Protection du Lien</span><span>Une machine liée peut encaisser les dégâts à la place de son humain, une fois par échange.</span>
+      <span class="t">Écho de douleur</span><span>Une machine liée détruite ou gravement endommagée&nbsp;: son humain perd 1 Étincelle et subit −1 dé sur son prochain jet.</span>
+      <span class="t">Contagion</span><span>Une machine touchée par un Écho, ou qui tente de le pirater, fait un jet d’Esprit (1 réussite), sinon +1 Érosion.</span>
+    </div>
+  </div>
+
+  <div class="bloc">
+    <h2>SOINS ET REPOS</h2>
+    <div class="lignes">
+      <span class="t">Une pause</span><span>Premiers soins sur une blessure légère (Médecine, 1)&nbsp;: le malus disparaît jusqu’au repos. Une fois par blessure.</span>
+      <span class="t accent">Une nuit de vrai repos</span><span>Dans le monde réel, jamais dans le Rêve&nbsp;: toute l’Étincelle, fin de la Fatigue créative et de l’Emprise, les légères guérissent, maintenance des machines. <b>Jamais l’Érosion.</b></span>
+      <span class="t">Blessure grave</span><span>Soins avec du matériel (2, ou 1 dans une infirmerie)&nbsp;: légère en une semaine environ. Non soignée&nbsp;: guérit avec une séquelle.</span>
+      <span class="t">Blessure critique</span><span>Stabiliser&nbsp;: 1 au calme, 2 sous le feu. Ensuite, elle se soigne comme une grave. Machine&nbsp;: risque de destruction (restauration +2 Érosion).</span>
+      <span class="t">Soin raté</span><span>Il réussit quand même&nbsp;; le joueur choisit&nbsp;: guérison deux fois plus longue, ou une séquelle (handicap ou prothèse).</span>
+      <span class="t">Cas particuliers</span><span>Machines&nbsp;: Ingénierie et pièces détachées. Incarné&nbsp;: Ingénierie pour le corps, Médecine pour le tissu. Les Purs refusent les soins d’une machine pensante.</span>
+    </div>
+  </div>
+
+  <div class="bloc">
+    <h2>LE LIEN À DISTANCE</h2>
+    <div class="lignes">
+      <span class="t">Même scène</span><span>Synchronisation, encaisser à la place de l’humain, Précision.</span>
+      <span class="t">Auprès du corps</span><span>Garder le corps pendant une intrusion dans le Rêve.</span>
+      <span class="t">Se parler en direct</span><span>Sens et données, partage d’Étincelle, émotions ressenties, Écho de douleur&nbsp;: même lieu, même vaisseau, quelques dizaines de kilomètres au plus.</span>
+      <span class="t">Pas de télépathie</span><span>La machine montre ce qu’elle perçoit et ressent l’intention de l’humain, sans savoir pourquoi. Un plan précis demande des mots. Seule la Résonance permet une conversation silencieuse.</span>
+      <span class="t">Séparation</span><span>Le Lien ne se brise pas avec la distance, mais une séance sans moment partagé&nbsp;: +1 Érosion. On peut se retrouver dans le Rêve, avec une Porte de chaque côté.</span>
+    </div>
+  </div>
+
+  <div class="pied"><span>Recursion&nbsp;: l’ère de l’Érosion</span><span>Aide-mémoire 2 / 4</span></div>
+</section>
+
+<!-- ============ PAGE 3&nbsp;: LE RÊVE ============ -->
+<section class="page">
+  <div class="entete titre">
+    <div class="moyen">RECURSION&nbsp;· AIDE-MÉMOIRE DU MJ</div>
+    <div class="theme">LE RÊVE&nbsp;· LES DORMEURS</div>
+  </div>
+
+  <div class="bloc">
+    <h2>DANS LE RÊVE</h2>
+    <div class="lignes">
+      <span class="t">Les Portes</span><span>Capsule de dormeur, relais des Bergers, terminal piraté (ou interface neurale). Partout dans une Ruche, une ou deux chez le Nexus, presque aucune ailleurs, aucune chez les Purs. La vraie question&nbsp;: qui la contrôle, qui garde le corps&nbsp;?</span>
+      <span class="t">Plier le Rêve</span><span>Esprit + Onirisme. 1 un détail&nbsp;· 2 l’environnement&nbsp;· 3 les lois physiques&nbsp;· 4 tout un lieu. Jamais les esprits&nbsp;: ni contrôle d’un dormeur, ni information qu’on ne possède pas, ni personne qu’on cherche.</span>
+      <span class="t">Anomalies</span><span>Intuition ou Onirisme (1 ou 2). Déjà-vu&nbsp;: quartier modifié&nbsp;· objet trop net&nbsp;: données&nbsp;· silence&nbsp;: canal de communication&nbsp;· horloge arrêtée&nbsp;: archive&nbsp;· image qui saute&nbsp;: Gardien. Attention aux faux signes de l’Érosion.</span>
+      <span class="t">Les Bergers</span><span>Plient le Rêve sans jet, en recombinant&nbsp;: une modification par point de Vigilance gagné. Un obstacle, jamais un mur&nbsp;: toujours une issue. Ils ne défont qu’une modification laissée derrière soi, jamais celle qu’on utilise, ni une modification faite avec une Étincelle.</span>
+      <span class="t bleu">Les machines</span><span>Intellect + Piratage, Calcul possible. Elles recombinent, n’inventent jamais, et ne plient pas le Rêve avec l’Étincelle d’un autre.</span>
+      <span class="t">Vigilance</span><span>+1 par modification visible et par échec. À 3&nbsp;: Gardiens (poignée de 6, Calcul, dégâts 2&nbsp;; plier en leur présence demande 1 réussite de plus). À 6&nbsp;: Portes fermées. Repart à 0 à chaque intrusion.</span>
+      <span class="t">Emprise</span><span>Chaque fois que le personnage plie le Rêve (et à chaque heure en mode chronométré)&nbsp;: Esprit (1 réussite), + niveau du Lien du partenaire qui garde le corps, −1 pour un Tardif. Premier échec&nbsp;: −1 dé dans le Rêve. Second&nbsp;: il refuse de partir.</span>
+      <span class="t">Extraction</span><span>Piratage du partenaire&nbsp;: 2 réussites, 3 à Vigilance 6. Chaque échec&nbsp;: +1 Vigilance. Deux échecs à Vigilance 6&nbsp;: capture.</span>
+      <span class="t">Déconnexion forcée</span><span>Toujours possible. Humain −2 Étincelle, machine +2 Érosion&nbsp;; partenaire lié −1 dé sur son prochain jet.</span>
+    </div>
+  </div>
+
+  <div class="bloc">
+    <h2>LES DANGERS</h2>
+    <div class="lignes">
+      <span class="t">Blessure onirique</span><span>Légère −1 Étincelle&nbsp;· grave −2&nbsp;· critique −3 et éjection. Une machine gagne autant d’Érosion. Un humain à 0 Étincelle est éjecté, en Fatigue créative.</span>
+      <span class="t accent">Pas de mort dans le Rêve</span><span>La mort vient du corps laissé dehors. S’il est menacé, le personnage le sent (froid, épuisement, cauchemars) et a une scène pour sortir.</span>
+      <span class="t">Capture</span><span>Il ne meurt pas&nbsp;: intégré comme dormeur, mémoire effacée, corps dans le coma. Le groupe doit monter un sauvetage.</span>
+    </div>
+  </div>
+
+  <div class="bloc">
+    <h2>LES DORMEURS</h2>
+    <div class="lignes">
+      <span class="t">Faire douter</span><span>Persuasion ou Intuition, sans le briser. 1 il doute déjà&nbsp;· 2 ordinaire&nbsp;· 3 heureux et entouré.</span>
+      <span class="t">Il apprend la vérité (d6)</span><span>1 déni&nbsp;· 2 peur&nbsp;· 3 colère&nbsp;· 4 marchandage&nbsp;· 5 curiosité inquiète&nbsp;· 6 soulagement. +1 si sa section se défait, −1 s’il est heureux et entouré.</span>
+    </div>
+  </div>
+
+  <div class="pied"><span>Recursion&nbsp;: l’ère de l’Érosion</span><span>Aide-mémoire 3 / 4</span></div>
+</section>
+
+<!-- ============ PAGE 4&nbsp;: ÉROSION ET BILAN ============ -->
+<section class="page">
+  <div class="entete titre">
+    <div class="moyen">RECURSION&nbsp;· AIDE-MÉMOIRE DU MJ</div>
+    <div class="theme">ÉROSION&nbsp;· BILAN</div>
+  </div>
+
+  <div class="bloc">
+    <h2 class="bleu">ÉROSION</h2>
+    <div class="paliers">
+      <div><span class="t">0–2</span><span>Stable</span></div>
+      <div><span class="t">3–4 Usure</span><span>Tic&nbsp;; paire de 1 annule une réussite</span></div>
+      <div><span class="t">5–6 Rigidité</span><span>Calcul 1/4&nbsp;; un souvenir effacé</span></div>
+      <div><span class="t">7–8 Dérive</span><span>−1 dé&nbsp;; Esprit pour changer</span></div>
+      <div><span class="t">9 Seuil</span><span>Esprit (2) par séance, sinon bug</span></div>
+      <div class="fin"><span class="t">10 Écho</span><span>+1 par Ancre</span></div>
+    </div>
+    <div class="lignes">
+      <span class="t">Autres hausses</span><span>Rupture d’un Lien +2&nbsp;· restauration depuis une sauvegarde +2&nbsp;· absorption de données ou infection par un Écho +1&nbsp;· blessure onirique +1 à +3&nbsp;· module +1.</span>
+      <span class="t">Ce qui la fait baisser</span><span>Un moment partagé avec son humain lié (−1 par séance)&nbsp;· une Percée de son humain&nbsp;· l’Ingéniosité&nbsp;· un moment de vérité. Jamais le repos.</span>
+      <span class="t">Le Rappel</span><span>Un humain lié dépense toute son Étincelle (au moins 3)&nbsp;: l’Écho revient à 8 et perd 1 point d’attribut ou de compétence. Une fois par machine.</span>
+    </div>
+  </div>
+
+  <div class="bloc">
+    <h2 class="accent">BILAN DE FIN DE SÉANCE</h2>
+    <ol>
+      <li>Chaque machine a-t-elle partagé un moment avec son humain lié&nbsp;? Oui&nbsp;: −1 Érosion&nbsp;; non ou sans Lien&nbsp;: +1. En Résonance&nbsp;: +1 de plus.</li>
+      <li>Un Incarné a-t-il reçu des soins&nbsp;? Sinon&nbsp;: −1 Étincelle.</li>
+      <li>Quelqu’un a-t-il vécu un moment de vérité, une Percée ou une Ancre&nbsp;?</li>
+      <li>Expérience&nbsp;: 1 point de participation, +1 par objectif accompli, plan créatif majeur, moment de vérité ou Épreuve de confiance.</li>
+    </ol>
+    <div class="lignes" style="margin-top: 4px">
+      <span class="t accent">Percée (humains)</span><span>Une création durable, plus un lien avec le personnage ou un prix&nbsp;: +1 Étincelle maximale, jusqu’au plafond.</span>
+      <span class="t bleu">Ancre (machines)</span><span>Un choix qui la définit, plus un lien avec le personnage ou un prix&nbsp;: l’Écho recule d’un point. Trois au maximum.</span>
+      <span class="t">Moment de vérité</span><span>Le personnage change sa réponse à sa question d’identité&nbsp;: une machine perd 1 Érosion, et cela compte comme lien avec le personnage pour une Percée ou une Ancre.</span>
+      <span class="t">Progression</span><span>Compétence&nbsp;: 2 × le nouveau niveau. Attribut&nbsp;: 5 × le nouveau niveau. L’Étincelle, l’Érosion et les augmentations ne s’achètent pas.</span>
+    </div>
+  </div>
+
+  <div class="pied"><span>Recursion&nbsp;: l’ère de l’Érosion</span><span>Aide-mémoire 4 / 4</span></div>
+</section>
+
+</body>
+</html>
