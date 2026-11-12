@@ -25,6 +25,7 @@ Quatre œuvres forment le socle du jeu ; les autres œuvres retenues le complèt
 | Clair Obscur : Expedition 33 | Retenue | Une ville majestueuse déformée par l'oubli : l'[[Erosion et Ancrage\|Érosion]] des souvenirs rendue visible, idée de départ de [[Remanence\|Rémanence]] |
 | Blade Runner | Retenue | Réplicants indiscernables des humains, souvenirs implantés, tests pour démasquer une machine ; inspiration pour les Masques et l'empreinte des clones |
 | Outer Wilds | Retenue | Un signal mystérieux à remonter à travers le système ; le savoir comme seule progression ; une enquête non linéaire à reconstituer soi-même ; idée de départ du signal impossible, à développer |
+| Game of Thrones (les Sans-Visage) | Retenue | Une guilde secrète qui change de visage à volonté et s'est glissée dans toutes les factions ; un prix à payer pour ses services ; idée de départ d'une guilde de [[Masques]] infiltrés, à développer |
 
 ## Voir aussi
 
