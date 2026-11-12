@@ -27,8 +27,9 @@
   .bloc { display: flex; flex-direction: column; gap: 9px; }
   .etiq { font-size: 12px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--gris); }
   .note { font-size: 12px; color: var(--gris); }
-  .ligne { height: 22px; border-bottom: 1px solid var(--encre); }
-  .ligne.claire { border-color: var(--trait); }
+  .ligne { height: 22px; position: relative; }
+  .ligne::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 1px; background: var(--encre); transform: scaleY(.4); transform-origin: bottom; }
+  .ligne.claire::after { background: var(--trait); transform: none; }
   .champ { display: flex; align-items: flex-end; gap: 6px; }
   .champ .ligne { flex: 1; height: 20px; }
   .deux { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 32px; }
@@ -49,6 +50,8 @@
   .comp-groupe { display: flex; flex-direction: column; gap: 3px; }
   .comp-titre { font-size: 12px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--gris); }
   .comp { display: flex; justify-content: space-between; align-items: center; min-height: 25px; border-bottom: 1px solid var(--trait); }
+  .comp b { font-weight: 500; display: block; }
+  .comp .note { display: block; line-height: 1.3; }
   .colonne { display: flex; flex-direction: column; gap: 10px; }
 
   .etincelle { display: flex; gap: 6px; }
@@ -56,10 +59,7 @@
   .erosion { display: grid; grid-template-columns: repeat(11, minmax(0, 1fr)); gap: 3px; }
   .erosion span { height: 26px; border: 1.5px solid var(--bleu); display: flex; align-items: flex-end; justify-content: flex-end; padding: 1px 2px; font-size: 12px; color: var(--gris); }
   .ancre { width: 16px; height: 16px; border: 1.5px solid var(--bleu); transform: rotate(45deg); display: inline-block; margin: 0 4px; }
-  .fatigue { display: flex; align-items: center; gap: 8px; font-size: 12px; }
 
-  .encadre { background: var(--fond); padding: 12px 16px; display: flex; flex-direction: column; gap: 4px; font-size: 12px; line-height: 1.5; }
-  .encadre b { font-weight: 600; }
 
   .lien { border: 1px solid var(--encre); padding: 12px; display: flex; flex-direction: column; gap: 9px; }
   .types { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 6px; }
@@ -69,18 +69,32 @@
   .augs { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1.3fr); column-gap: 14px; }
   .augs .ligne { height: 27px; }
   .choix { display: flex; align-items: center; gap: 16px; }
-  .bilan { display: flex; flex-direction: column; gap: 4px; font-size: 12px; }
-  .bilan span { display: flex; align-items: center; gap: 8px; }
   .p2 { gap: 12px; padding-top: 40px; padding-bottom: 36px; }
   .p2 .bloc { gap: 7px; }
   .p2 .bloc > div > .ligne { height: 19px; }
+  .p1 { gap: 24px; }
+  .p1 .bloc { gap: 12px; }
+  .p1 .attr { min-height: 48px; }
+  .p1 .comp { min-height: 40px; padding: 3px 0; }
+  .p1 .comp-groupe { gap: 4px; }
+  .p1 .colonne { gap: 16px; }
+  .p1 .etincelle span { width: 32px; height: 32px; }
+  .p1 .erosion span { height: 30px; }
+  .aide-col { gap: 18px; }
+  .rubrique { display: flex; flex-direction: column; gap: 6px; font-size: 12.5px; line-height: 1.5; }
+  .rubrique p { margin: 0; }
+  .rubrique b { font-weight: 600; }
+  .rubrique ul { margin: 0; padding-left: 16px; display: flex; flex-direction: column; gap: 5px; }
+  .paliers { border-collapse: collapse; width: 100%; }
+  .paliers td { padding: 4px 0; border-bottom: 1px solid var(--trait); vertical-align: top; }
+  .paliers td:first-child { width: 38px; font-weight: 600; color: var(--bleu); white-space: nowrap; }
   .pied { margin-top: auto; display: flex; justify-content: space-between; font-size: 12px; color: var(--gris); }
 </style>
 </head>
 <body>
 
 <!-- ======================= PAGE 1 ======================= -->
-<section class="page">
+<section class="page p1">
   <div class="entete titre">
     <div><div class="gros">RECURSION</div><div class="sous">L’ÈRE DE L’ÉROSION</div></div>
     <div class="theme">FICHE DE PERSONNAGE</div>
@@ -92,7 +106,7 @@
     <div><span class="etiq">Génération ou origine</span><div class="ligne"></div></div>
     <div><span class="etiq">Faction</span><div class="ligne"></div></div>
     <div><span class="etiq">Code de souche</span><div class="ligne"></div></div>
-    <div><span class="etiq">Joueur</span><div class="ligne"></div></div>
+    <div><span class="etiq">Expérience disponible</span><div class="ligne"></div></div>
   </div>
 
   <div class="deux">
@@ -103,7 +117,6 @@
       <div class="attr"><div><b>Intellect</b><span class="note">Raisonnement, mémoire, technique</span></div><div class="rangee"><span class="rond"></span><span class="rond"></span><span class="rond"></span><span class="rond"></span><span class="rond"></span><span class="rond pointille"></span></div></div>
       <div class="attr"><div><b>Esprit</b><span class="note">Volonté, intuition&nbsp;; nombre de Liens</span></div><div class="rangee"><span class="rond"></span><span class="rond"></span><span class="rond"></span><span class="rond"></span><span class="rond"></span><span class="rond pointille"></span></div></div>
       <div class="attr"><div><b>Présence</b><span class="note">Charisme, influence, sang-froid</span></div><div class="rangee"><span class="rond"></span><span class="rond"></span><span class="rond"></span><span class="rond"></span><span class="rond"></span><span class="rond pointille"></span></div></div>
-      <div class="note">Le cercle en pointillé (6) n’est accessible que par une augmentation.</div>
     </div>
 
     <div class="colonne" style="gap: 16px">
@@ -114,18 +127,14 @@
           <div class="champ" style="flex: 1"><span class="etiq">Maximum</span><div class="ligne"></div></div>
           <div class="champ" style="flex: 1"><span class="etiq">Plafond</span><div class="ligne"></div></div>
         </div>
-        <div class="fatigue"><span class="carre"></span><span><b style="font-weight:600">Fatigue créative</b> à 0&nbsp;: −1 dé partout jusqu’au repos (Tardif&nbsp;: ne peut plus dépenser).</span></div>
-        <div class="note">Machines&nbsp;: aucune Étincelle propre, seulement celle de leurs Liens.</div>
       </div>
 
       <div class="bloc">
         <h2 class="bleu">ÉROSION (MACHINES)</h2>
         <div class="erosion"><span>0</span><span>1</span><span>2</span><span>3</span><span>4</span><span>5</span><span>6</span><span>7</span><span>8</span><span>9</span><span>10</span></div>
-        <div style="font-size: 12px; line-height: 1.5">0–2 Stable&nbsp;· 3–4 Usure&nbsp;· 5–6 Rigidité&nbsp;· 7–8 Dérive&nbsp;· 9 Seuil&nbsp;· 10 Écho (+1 par Ancre)</div>
         <div style="display: flex; align-items: center; gap: 8px">
           <span class="etiq" style="color: var(--bleu)">Ancres</span>
           <span class="ancre"></span><span class="ancre"></span><span class="ancre"></span>
-          <span class="note">Chacune repousse l’Écho d’un point.</span>
         </div>
       </div>
     </div>
@@ -137,43 +146,37 @@
       <div class="colonne">
         <div class="comp-groupe">
           <span class="comp-titre">Physiques</span>
-          <div class="comp"><span>Athlétisme</span><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
-          <div class="comp"><span>Combat</span><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
-          <div class="comp"><span>Tir</span><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
-          <div class="comp"><span>Discrétion</span><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
-          <div class="comp"><span>Pilotage</span><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
-          <div class="comp"><span>Survie</span><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
+          <div class="comp"><div><b>Athlétisme</b><span class="note">Courir, sauter, grimper, nager</span></div><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
+          <div class="comp"><div><b>Combat</b><span class="note">Se battre au corps à corps</span></div><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
+          <div class="comp"><div><b>Tir</b><span class="note">Armes à distance, viser juste</span></div><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
+          <div class="comp"><div><b>Discrétion</b><span class="note">Se cacher, passer inaperçu</span></div><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
+          <div class="comp"><div><b>Pilotage</b><span class="note">Vaisseaux, navettes, véhicules</span></div><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
+          <div class="comp"><div><b>Survie</b><span class="note">Milieux hostiles, s’orienter, pister</span></div><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
         </div>
         <div class="comp-groupe">
           <span class="comp-titre">Spéciale</span>
-          <div class="comp"><span>Onirisme <span class="note">(agir dans le Rêve)</span></span><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
+          <div class="comp"><div><b>Onirisme</b><span class="note">Agir dans le Rêve, en plier les règles</span></div><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
         </div>
       </div>
       <div class="colonne">
         <div class="comp-groupe">
           <span class="comp-titre">Techniques</span>
-          <div class="comp"><span>Ingénierie</span><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
-          <div class="comp"><span>Piratage</span><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
-          <div class="comp"><span>Médecine</span><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
-          <div class="comp"><span>Savoir</span><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
+          <div class="comp"><div><b>Ingénierie</b><span class="note">Réparer, construire, poser des implants</span></div><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
+          <div class="comp"><div><b>Piratage</b><span class="note">Systèmes, réseaux, machines</span></div><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
+          <div class="comp"><div><b>Médecine</b><span class="note">Soigner, diagnostiquer, opérer</span></div><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
+          <div class="comp"><div><b>Savoir</b><span class="note">Histoire, factions, Prévision</span></div><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
         </div>
         <div class="comp-groupe">
           <span class="comp-titre">Sociales</span>
-          <div class="comp"><span>Persuasion</span><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
-          <div class="comp"><span>Tromperie</span><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
-          <div class="comp"><span>Intuition</span><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
+          <div class="comp"><div><b>Persuasion</b><span class="note">Convaincre, négocier, inspirer</span></div><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
+          <div class="comp"><div><b>Tromperie</b><span class="note">Mentir, bluffer, jouer un rôle</span></div><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
+          <div class="comp"><div><b>Intuition</b><span class="note">Lire les autres, repérer un Masque</span></div><div class="rangee"><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span><span class="rond petit"></span></div></div>
         </div>
       </div>
     </div>
   </div>
 
-  <div class="encadre">
-    <div><b>Jet&nbsp;:</b> lancer une poignée de d6 = Attribut + Compétence&nbsp;± modificateurs (toujours au moins 1 dé)&nbsp;; chaque 5 ou 6 est une réussite. Difficulté&nbsp;: 1 ordinaire, 2 difficile, 3 très difficile, 4 exploit. Une réussite de moins (au moins 1)&nbsp;: réussite avec complication.</div>
-    <div><b>Dépenser une Étincelle (humains)&nbsp;:</b> avec une approche vraiment nouvelle, les 4 comptent aussi comme des réussites.</div>
-    <div><b>Calcul (machines)&nbsp;:</b> au lieu de lancer, 1 réussite automatique pour 3 dés de la poignée. Jamais de réussite partielle, ni face aux Échos.</div>
-  </div>
-
-  <div class="pied"><span>Recursion&nbsp;: l’ère de l’Érosion</span><span>Page 1 / 2</span></div>
+  <div class="pied"><span>Recursion&nbsp;: l’ère de l’Érosion</span><span>Page 1 / 3</span></div>
 </section>
 
 <!-- ======================= PAGE 2 ======================= -->
@@ -205,7 +208,6 @@
         <div class="ligne claire" style="height: 20px"></div>
       </div>
     </div>
-    <div class="note">Synchronisation (même scène)&nbsp;: + autant de dés que le niveau. Sens et Étincelle&nbsp;: se parler en direct.</div>
   </div>
 
   <div class="bloc">
@@ -215,7 +217,6 @@
       <div><div class="blessure-titre"><b>Grave</b><span class="carre moyen"></span><span class="carre moyen"></span></div><span class="note">−2 dés&nbsp;; soins nécessaires (une semaine)</span></div>
       <div><div class="blessure-titre"><b>Critique</b><span class="carre moyen"></span></div><span class="note">Hors de combat&nbsp;; mourant sans soins</span></div>
     </div>
-    <div class="note">Deux légères font une grave, deux graves font une critique. Machines&nbsp;: réparées avec Ingénierie.</div>
     <div class="champ"><span class="etiq">Séquelles</span><div class="ligne"></div></div>
   </div>
 
@@ -227,14 +228,13 @@
       <div class="ligne"></div><div class="ligne"></div><div class="ligne"></div>
       <div class="ligne"></div><div class="ligne"></div><div class="ligne"></div>
     </div>
-    <div class="note">Majeure&nbsp;: −1 Étincelle maximale et plafond. Module de machine&nbsp;: +1 Érosion.</div>
   </div>
 
   <div class="bloc">
     <h2>HISTOIRE</h2>
-    <div><span class="etiq">Motivation</span><div class="ligne"></div><div class="ligne"></div></div>
-    <div><span class="etiq">Faille</span><div class="ligne"></div><div class="ligne"></div></div>
-    <div><span class="etiq">Question d’identité</span><div class="ligne"></div><div class="ligne"></div></div>
+    <div><span class="etiq">Motivation</span><div class="ligne"></div><div class="ligne"></div><div class="ligne"></div><div class="ligne"></div><div class="ligne"></div><div class="ligne"></div></div>
+    <div><span class="etiq">Faille</span><div class="ligne"></div><div class="ligne"></div><div class="ligne"></div><div class="ligne"></div><div class="ligne"></div><div class="ligne"></div></div>
+    <div><span class="etiq">Question d’identité</span><div class="ligne"></div><div class="ligne"></div><div class="ligne"></div><div class="ligne"></div><div class="ligne"></div><div class="ligne"></div></div>
     <div class="choix">
       <span class="etiq">Nom choisi (Éveillés)</span>
       <span><span class="rond mini"></span>Nom du Rêve</span><span><span class="rond mini"></span>Code</span><span><span class="rond mini"></span>Nouveau nom</span>
@@ -242,22 +242,81 @@
     <div class="champ"><span class="etiq">Machine&nbsp;: époque du corps, détail ajouté par l’humain</span><div class="ligne"></div></div>
   </div>
 
-  <div class="bloc">
-    <h2>BILAN DE FIN DE SÉANCE</h2>
-    <div class="bilan">
-      <span><span class="carre mini"></span>Machine&nbsp;: un moment partagé avec son humain lié&nbsp;? Oui −1 Érosion, non ou sans Lien +1. En Résonance&nbsp;: +1 de plus.</span>
-      <span><span class="carre mini"></span>Incarné&nbsp;: soigné cette séance&nbsp;? Sinon −1 Étincelle.</span>
-      <span><span class="carre mini"></span>Moment de vérité, Percée ou Ancre&nbsp;?</span>
-      <span><span class="carre mini"></span>Expérience&nbsp;: 1 + objectifs, plans créatifs, moments de vérité, Épreuves de confiance.</span>
+  <div class="pied"><span>Recursion&nbsp;: l’ère de l’Érosion</span><span>Page 2 / 3</span></div>
+</section>
+
+<!-- ======================= PAGE 3 : AIDE DE JEU ======================= -->
+<section class="page aide">
+  <div class="entete titre" style="padding-bottom: 10px">
+    <div class="moyen">RECURSION</div>
+    <div class="theme">AIDE DE JEU</div>
+  </div>
+
+  <div class="deux aide-cols">
+    <div class="colonne aide-col">
+      <div class="rubrique">
+        <h2>FAIRE UN JET</h2>
+        <p><b>La poignée&nbsp;:</b> lancer autant de d6 que Attribut + Compétence&nbsp;± modificateurs, toujours au moins 1 dé. Chaque 5 ou 6 est une réussite.</p>
+        <p><b>Difficulté&nbsp;:</b> 1 ordinaire, 2 difficile, 3 très difficile, 4 exploit.</p>
+        <p><b>Complication&nbsp;:</b> une réussite de moins que la difficulté (au moins 1)&nbsp;: réussite avec complication.</p>
+        <p><b>Étincelle (humains)&nbsp;:</b> avec une approche vraiment nouvelle, dépenser 1 Étincelle&nbsp;: les 4 comptent aussi comme des réussites.</p>
+        <p><b>Calcul (machines)&nbsp;:</b> au lieu de lancer, 1 réussite automatique pour 3 dés de la poignée. Jamais de réussite partielle, ni face aux Échos.</p>
+      </div>
+
+      <div class="rubrique">
+        <h2 class="accent">ÉTINCELLE</h2>
+        <p><b>Maximum et plafond&nbsp;:</b> une Percée augmente l’Étincelle maximale de 1, jusqu’au plafond.</p>
+        <p><b>Fatigue créative&nbsp;:</b> à 0, l’humain est apathique&nbsp;: −1 dé à toutes ses actions jusqu’à un repos. Un Tardif n’est pas apathique, il ne peut simplement plus dépenser d’Étincelle.</p>
+        <p><b>Machines&nbsp;:</b> aucune Étincelle propre, seulement celle de leurs Liens.</p>
+      </div>
+
+      <div class="rubrique">
+        <h2 class="accent">LIENS</h2>
+        <p><b>Synchronisation (même scène)&nbsp;:</b> quand les deux agissent ensemble, un seul lance sa poignée et ajoute autant de dés que le niveau du Lien.</p>
+        <p><b>Sens et Étincelle&nbsp;:</b> partager les sens, les données et l’Étincelle demande de pouvoir se parler en direct (même lieu, même vaisseau, quelques dizaines de kilomètres au plus).</p>
+      </div>
+
+      <div class="rubrique">
+        <h2>BLESSURES</h2>
+        <p><b>Cumul&nbsp;:</b> deux légères font une grave, deux graves font une critique.</p>
+        <p><b>Machines&nbsp;:</b> réparées avec Ingénierie.</p>
+      </div>
     </div>
-    <div class="trois" style="gap: 22px">
-      <div class="champ"><span class="etiq">Expérience gagnée</span><div class="ligne"></div></div>
-      <div class="champ"><span class="etiq">Dépensée</span><div class="ligne"></div></div>
-      <div class="champ"><span class="etiq">Disponible</span><div class="ligne"></div></div>
+
+    <div class="colonne aide-col">
+      <div class="rubrique">
+        <h2 class="bleu">ÉROSION (MACHINES)</h2>
+        <table class="paliers">
+          <tr><td>0–2</td><td><b>Stable</b>&nbsp;: aucun effet.</td></tr>
+          <tr><td>3–4</td><td><b>Usure</b>&nbsp;: un tic répétitif à jouer&nbsp;; chaque paire de 1 annule une réussite.</td></tr>
+          <tr><td>5–6</td><td><b>Rigidité</b>&nbsp;: Calcul dégradé (1 réussite pour 4 dés)&nbsp;; une fois par séance, le MJ peut effacer un souvenir.</td></tr>
+          <tr><td>7–8</td><td><b>Dérive</b>&nbsp;: −1 dé à tous les jets&nbsp;; jet d’Esprit pour agir contre ses habitudes.</td></tr>
+          <tr><td>9</td><td><b>Seuil</b>&nbsp;: au début de chaque séance, jet d’Esprit difficile, sinon bug majeur décidé par le MJ.</td></tr>
+          <tr><td>10</td><td><b>Écho</b>&nbsp;: la machine devient un Écho et le joueur en perd le contrôle.</td></tr>
+        </table>
+        <p><b>Ancres&nbsp;:</b> chacune repousse l’Écho d’un point (11 avec une Ancre, 12 avec deux). Trois au maximum.</p>
+      </div>
+
+      <div class="rubrique">
+        <h2>ATTRIBUTS ET AUGMENTATIONS</h2>
+        <p><b>Le cercle en pointillé (6)&nbsp;:</b> accessible seulement par une augmentation.</p>
+        <p><b>Augmentation majeure&nbsp;:</b> −1 à l’Étincelle maximale et au plafond.</p>
+        <p><b>Module de machine&nbsp;:</b> +1 Érosion.</p>
+      </div>
+
+      <div class="rubrique">
+        <h2>BILAN DE FIN DE SÉANCE</h2>
+        <ul>
+          <li><b>Machine&nbsp;:</b> un moment partagé avec son humain lié&nbsp;? Oui −1 Érosion, non ou sans Lien +1. En Résonance&nbsp;: +1 de plus.</li>
+          <li><b>Incarné&nbsp;:</b> soigné cette séance&nbsp;? Sinon −1 Étincelle.</li>
+          <li><b>Moment de vérité, Percée ou Ancre&nbsp;?</b></li>
+          <li><b>Expérience&nbsp;:</b> 1 + objectifs, plans créatifs, moments de vérité, Épreuves de confiance. L’ajouter à l’expérience disponible, en haut de la fiche.</li>
+        </ul>
+      </div>
     </div>
   </div>
 
-  <div class="pied"><span>Recursion&nbsp;: l’ère de l’Érosion</span><span>Page 2 / 2</span></div>
+  <div class="pied"><span>Recursion&nbsp;: l’ère de l’Érosion</span><span>Page 3 / 3</span></div>
 </section>
 
 </body>
