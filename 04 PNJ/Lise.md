@@ -8,7 +8,7 @@ faction: Aucune (dormeuse)
 
 # Lise
 
-**Rôle :** Dormeuse, sœur de Tess.
+**Rôle :** Dormeuse, sœur du pilote.
 
 **Faction :** Aucune (dormeuse) · **Lieu :** Ruche 7-Delta (ville d'Ambre) · **Première apparition :** [[La Ruche silencieuse]]
 
@@ -22,12 +22,12 @@ Protéger ses élèves.
 
 ## Comment le jouer
 
-Douce, sûre d'elle dans son monde ; troublée par cette inconnue qui semble la connaître.
+Douce, sûre d'elle dans son monde ; troublée par quelqu'un qu'elle ne connaît pas et qui semble la connaître.
 
-**Réplique :** Elle fredonne la chanson que chantait la mère de Tess, sans savoir d'où elle vient.
+**Réplique :** Elle fredonne la chanson que chantait leur mère, sans savoir d'où elle vient.
 
 > [!mj]- Réservé au MJ
-> Elle ne reconnaît pas Tess. Si elle refuse de partir, Tess doit choisir entre la ramener ou respecter son choix.
+> Elle ne reconnaît pas le pilote. Si elle refuse de partir, le pilote doit choisir entre la ramener ou respecter son choix.
 
 ## Apparitions
 

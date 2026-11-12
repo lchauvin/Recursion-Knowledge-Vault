@@ -13,7 +13,6 @@ visibilite: mj
 **Nombre de dormeurs :** 4 000
 **Souches principales :** dont K-412 ([[Mira]])
 **Section du Rêve :** la ville d'Ambre, douce, dorée, en train de se défaire
-**Première apparition :** [[La Ruche silencieuse]]
 
 ## Particularités
 
@@ -45,12 +44,11 @@ visibilite: mj
 > [!mj]- Réservé au MJ
 > Aster sait que la récolte ne ranime plus rien, et peut demander qu'on l'éteigne avant qu'il devienne un Écho. Mira rêve chaque nuit d'un ciel noir rempli d'étoiles : en 400 AR, Ambre est l'une des premières sections touchées par le rêve des étoiles (voir [[Le monde en 400 AR]]).
 >
-> **Dans le monde persistant :** le sort de la Ruche dépend de la première campagne qui joue [[La Ruche silencieuse]]. Notez-le dans la section Historique et proposez-le pour la [[Chronique du monde]]. Tant qu'aucune table ne l'a joué, la Ruche est l'une des dizaines de Ruches silencieuses du début de 400 AR.
+> **Dans le monde persistant :** le sort de la Ruche dépend de la première campagne qui s'y rend. Notez-le dans la section Historique et proposez-le pour la [[Chronique du monde]]. Tant qu'aucune table ne s'y est rendue, la Ruche est l'une des dizaines de Ruches silencieuses du début de 400 AR.
 
 ## Historique
 
 ## Voir aussi
 
-- [[La Ruche silencieuse]]
 - [[Les Ruches]]
 - [[Aster]]

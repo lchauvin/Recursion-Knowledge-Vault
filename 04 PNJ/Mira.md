@@ -14,7 +14,7 @@ faction: Aucune (dormeuse)
 
 ## Qui il est
 
-Boulangère dans la ville d'Ambre, entourée d'amis et d'un vieux chat. Elle a le visage d'Ilan, avec quelques années de plus.
+Boulangère dans la ville d'Ambre, entourée d'amis et d'un vieux chat. Elle a le visage du rêveur, un Éveillé de la même souche K-412, avec quelques années de plus.
 
 ## Ce qu'il veut
 

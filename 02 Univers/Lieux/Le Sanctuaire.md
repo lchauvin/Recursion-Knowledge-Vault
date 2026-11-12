@@ -39,7 +39,7 @@ L'Église n'a pas de section du Rêve, mais ses fidèles y entrent pour écouter
 - **En 400 AR :** la proclamation du Second Réveil, et les débats entre écoles (voir [[Le monde en 400 AR]]).
 
 > [!mj]- Réservé au MJ
-> **L'Atelier des visages :** une partie du Sanctuaire fabrique les [[Masques]] Infiltrés de l'Église, comme Jonas dans [[La Ruche silencieuse]]. Ils y apprennent à imiter les humains en étudiant les fidèles du Cloître, qui ne le savent pas.
+> **L'Atelier des visages :** une partie du Sanctuaire fabrique les [[Masques]] Infiltrés de l'Église. Ils y apprennent à imiter les humains en étudiant les fidèles du Cloître, qui ne le savent pas.
 >
 > **La Pupille :** personne n'y entre. Ce qu'elle contient est lié au mystère du Réveil (la Prévision l'avait-elle prévu, l'a-t-elle provoqué, ou rien de tout cela ?). Voir le [[Registre des mysteres|Registre des mystères]].
 >

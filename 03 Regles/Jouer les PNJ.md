@@ -55,7 +55,7 @@ La règle : avant de demander à un dormeur s'il veut être réveillé, il faut 
 - **Une preuve personnelle :** son propre visage sur un inconnu (un [[Eveilles|Éveillé]] de la même souche), une chanson de sa famille, un détail de sa vie que personne ne pouvait connaître.
 - **Partir de ce qu'il ressent déjà :** « Tu as froid, ces temps-ci ? Tu fais toujours le même rêve ? »
 - **Lui laisser du temps :** un dormeur qui doute a besoin d'y penser, d'en parler, de revenir. C'est souvent une scène en deux temps.
-- **La parole d'un autre dormeur :** un voisin qui a déjà choisi de partir, un [[#Les Lucides|Lucide]] qu'il connaît.
+- **La parole d'un autre dormeur :** un voisin qui a déjà choisi de partir, un [[Jouer les PNJ#Les Lucides|Lucide]] qu'il connaît.
 
 **Ce qui brise**
 
@@ -67,9 +67,9 @@ La règle : avant de demander à un dormeur s'il veut être réveillé, il faut 
 
 ### Exemple
 
-> Ilan entre dans la boulangerie. Mira lève les yeux et laisse tomber sa pelle à pain : l'inconnu a son visage, avec quelques années de moins.
+> Nour entre dans la boulangerie. Mira lève les yeux et laisse tomber sa pelle à pain : l'inconnu a son visage, avec quelques années de moins.
 >
-> **Le joueur d'Ilan :** « Je ne dis rien du Rêve. Je lui demande si elle rêve parfois d'un ciel noir, plein d'étoiles. »
+> **Le joueur de Nour :** « Je ne dis rien du Rêve. Je lui demande si elle rêve parfois d'un ciel noir, plein d'étoiles. »
 >
 > Le MJ fixe la difficulté à 2. Mira rêve de ce ciel chaque nuit, mais elle est entourée d'amis : elle est à la frontière entre la curiosité et la peur. Le jet réussit.
 >

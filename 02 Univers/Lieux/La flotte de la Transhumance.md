@@ -22,7 +22,7 @@ La Transhumance est une flotte de plusieurs dizaines de vaisseaux, de toutes les
 - **Le Marché :** une coursive où l'on échange tout, des pièces détachées aux chansons.
 - **Les Serres :** des jardins hydroponiques qui nourrissent la flotte, et le seul endroit à bord où il fait chaud et où ça sent la terre.
 - **La Salle du Conseil :** où le conseil de la flotte décide des routes, des haltes et des sauvetages. Les débats y sont longs, et de plus en plus vifs.
-- **Les hangars :** les navettes, dont celle de Tess dans [[La Ruche silencieuse]].
+- **Les hangars :** les navettes des équipages qui partent vers les Ruches.
 
 **La vie à bord :** bruyante, serrée, chaleureuse. Des enfants nés dans la flotte qui n'ont jamais connu de sol, des réveillés désorientés, des machines liées à leurs humains, des fêtes à chaque halte. Tout le monde travaille, tout le monde a un avis.
 
@@ -40,7 +40,7 @@ La Transhumance est une flotte de plusieurs dizaines de vaisseaux, de toutes les
 - **En 400 AR :** la flotte est débordée par l'afflux de réveillés, et les vivres manquent (voir [[Le monde en 400 AR]]).
 
 > [!mj]- Réservé au MJ
-> **Des Infiltrés à bord :** l'Église et certains Bergers ont envoyé des [[Masques]] surveiller la flotte, comme Jonas. Tous n'ont pas fait défection.
+> **Des Infiltrés à bord :** l'Église et certains Bergers ont envoyé des [[Masques]] surveiller la flotte. Tous n'ont pas fait défection.
 >
 > **Les radicaux :** une partie de l'équipage, proche d'Ysé, prépare en secret de quoi ouvrir des Ruches de force lors du Second Réveil.
 >

@@ -95,7 +95,6 @@ Le sommaire du coffre. Pour savoir comment il fonctionne, voir [[README - Commen
 ## Scénarios
 
 - [[La Ruche silencieuse]]
-- [[La Ruche silencieuse a 5 joueurs|La Ruche silencieuse, version à 5 joueurs]] (brouillon)
 
 ## Pour les joueurs
 
