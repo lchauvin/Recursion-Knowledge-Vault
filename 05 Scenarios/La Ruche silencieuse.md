@@ -55,14 +55,14 @@ Pour une table qui préfère jouer sans créer ses personnages. Ils suivent la [
 
 - **Compétences :** Onirisme 3, Persuasion 3, Intuition 2, Médecine 2, Discrétion 1, Athlétisme 1 (sa compétence supplémentaire d'Intermédiaire).
 - **Son nom :** choisi à son réveil ; il veut dire « lumière ».
-- **Motivation :** savoir ce que la souche K-412 a été avant les codes.
+- **Motivation :** découvrir qui était l'humain original de sa souche, dont il ne reste qu'un code : K-412.
 - **Faille :** il se sent responsable de chaque K-412 qu'il croise.
 - **Question d'identité :** « Si quelqu'un qui porte mon visage a eu une vie plus heureuse, laquelle de nos deux vies est la vraie ? »
 
 ### Solène, Née-libre
 
 - **Compétences :** Pilotage 3, Survie 2, Intuition 2, Athlétisme 1, Tir 1, Discrétion 1.
-- **Particularités :** méfiante, ses Liens demandent une Épreuve de confiance de plus pour atteindre le niveau 2 ; pilote de la navette de la Transhumance.
+- **Particularités :** méfiante, il lui faut deux Épreuves de confiance, au lieu d'une, pour qu'un Lien passe au niveau 2 ; pilote de la navette de la Transhumance.
 - **Motivation :** protéger la Transhumance, et retrouver sa sœur, emportée dans le Rêve par un « sauvetage » des Bergers il y a huit ans.
 - **Faille :** elle décide seule, et vite, dès qu'il s'agit des Bergers.
 - **Question d'identité :** « Si ma sœur ne me reconnaît pas, est-elle encore ma sœur ? »
@@ -88,7 +88,7 @@ Pour une table qui préfère jouer sans créer ses personnages. Ils suivent la [
 - **Compétences :** Ingénierie 3, Intuition 2, Savoir 2, Combat 2, Médecine 1.
 - **Particularités :** Calcul ; sa propre Étincelle, jamais combinée au Calcul sur la même action ; son tissu vivant, visible derrière une plaque translucide sur sa poitrine, doit être soigné à chaque séance.
 - **Motivation :** comprendre ce qui vit en lui, et à qui il le doit.
-- **Faille :** il porte la culpabilité des dormeurs dont on a pris les cellules.
+- **Faille :** son tissu vivant a été cultivé à partir de cellules prélevées sur des dormeurs, à leur insu : il en porte la culpabilité.
 - **Question d'identité :** « Ce qui vit en moi est-il à moi ? »
 
 ## Avant de jouer

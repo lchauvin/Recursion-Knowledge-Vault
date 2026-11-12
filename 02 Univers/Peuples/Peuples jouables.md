@@ -11,7 +11,7 @@ Quatre peuples sont jouables, chacun avec une [[Etincelle et Percee|Étincelle]]
 | Peuple | Étincelle de départ | Forces | Faiblesses |
 | --- | --- | --- | --- |
 | [[Eveilles\|Éveillés]] | 2 à 6 selon la génération | Variables selon la génération (voir ci-dessous) | Déroutés par le monde réel |
-| Nés-libres | 5 | Débrouillards, nés hors du [[Le Reve\|Rêve]] dans des colonies cachées | Méfiants : leurs Liens demandent une Épreuve de confiance de plus pour atteindre le niveau 2 |
+| Nés-libres | 5 | Débrouillards, nés hors du [[Le Reve\|Rêve]] dans des colonies cachées | Méfiants : il leur faut deux Épreuves de confiance, au lieu d'une, pour qu'un Lien passe au niveau 2 |
 | [[Hybrides]] | 3 | Peuvent se lier aux humains comme aux machines | Tiraillés entre les deux mondes |
 | Machines conscientes | Aucune propre : accès par leurs Liens | Puissantes et précises | Menacées par l'[[Erosion et Ancrage\|Érosion]] |
 

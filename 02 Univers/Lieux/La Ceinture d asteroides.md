@@ -30,7 +30,7 @@ Les Nés-libres descendent d'humains qui ont refusé le [[Le Reve|Rêve]] et d'[
 
 - **La loi de l'air :** quiconque manque d'air, d'eau ou de chaleur doit être secouru, même un ennemi. C'est la seule loi commune à toutes les colonies.
 - **La débrouille :** tout se répare, tout se recycle, rien ne se jette.
-- **La méfiance :** il faut du temps pour gagner la confiance d'un Né-libre, ce qui explique que leurs Liens demandent une Épreuve de confiance de plus (voir [[Peuples jouables]]).
+- **La méfiance :** il faut du temps pour gagner la confiance d'un Né-libre, ce qui explique qu'il leur faille deux Épreuves de confiance, au lieu d'une, pour qu'un Lien passe au niveau 2 (voir [[Peuples jouables]]).
 
 ## Les Ruches de la Ceinture
 
