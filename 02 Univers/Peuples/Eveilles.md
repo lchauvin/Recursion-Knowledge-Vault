@@ -11,9 +11,9 @@ visibilite: joueurs
 
 Un Éveillé choisit sa génération à la création : commencer brillant mais pourchassé, ou modeste mais avec la plus grande marge de progression.
 
-| Génération | [[Etincelle et Percee|Étincelle]] de départ | Plafond | Avantages | Inconvénients |
+| Génération | [[Etincelle et Percee\|Étincelle]] de départ | Plafond | Avantages | Inconvénients |
 | --- | --- | --- | --- | --- |
-| Proche de l'original | 6 | 7 | L'Étincelle la plus élevée du jeu | Rare, traqué par les [[Bergers]] et convoité par l'[[Eglise de la Prevision|Église de la Prévision]] ; corps fragile (−1 dé aux actions physiques) |
+| Proche de l'original | 6 | 7 | L'Étincelle la plus élevée du jeu | Rare, traqué par les [[Bergers]] et convoité par l'[[Eglise de la Prevision\|Église de la Prévision]] ; corps fragile (−1 dé aux actions physiques) |
 | Intermédiaire | 4 | 6 | Polyvalent : une compétence supplémentaire à la création | Aucun avantage marqué |
 | Tardif | 2 | 6 | Corps standardisé : première augmentation sans coût d'Étincelle ; son premier Lien commence au niveau 2 ; la Fatigue créative ne le rend pas apathique, il ne peut simplement plus dépenser d'Étincelle | Étincelle de départ très basse ; partenaire peu généreux pour ses machines au début |
 

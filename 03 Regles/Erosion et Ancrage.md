@@ -17,19 +17,19 @@ L'Érosion va de 0 à 10 : la machine se répète, se rigidifie, puis se dissout
 | Cause | Effet |
 | --- | --- |
 | Séance sans Lien actif, ou sans moment partagé avec un humain lié | +1 |
-| Séance en [[La Resonance|Résonance]] | +1 |
+| Séance en [[La Resonance\|Résonance]] | +1 |
 | Rupture d'un Lien | +2 |
 | Restauration depuis une sauvegarde après destruction | +2 |
 | Absorption des données d'une autre machine, ou infection par un Écho (au contact) | +1 |
 | Contagion en piratant une machine érodée, Écho compris (jet d'Esprit raté, voir [[Systeme de base\|Système de base]]) | +1 à +3 (un tiers de l'Érosion de la cible) |
 | Fin de séance avec un Lien actif (−1 au maximum, quel que soit le nombre de Liens) | −1 |
-| [[Etincelle et Percee|Percée]] de son humain lié | −1 |
+| [[Etincelle et Percee\|Percée]] de son humain lié | −1 |
 
 | Palier | Effets |
 | --- | --- |
 | 0 à 2 : Stable | Aucun |
 | 3 à 4 : Usure | Un tic répétitif à jouer ; en lançant les dés, chaque paire de 1 annule une réussite |
-| 5 à 6 : Rigidité | [[Systeme de base|Calcul]] dégradé (1 réussite pour 4 dés) ; une fois par séance, le MJ peut effacer un souvenir |
+| 5 à 6 : Rigidité | [[Systeme de base\|Calcul]] dégradé (1 réussite pour 4 dés) ; une fois par séance, le MJ peut effacer un souvenir |
 | 7 à 8 : Dérive | −1 dé à tous les jets ; jet d'Esprit pour agir contre ses habitudes |
 | 9 : Seuil | Au début de chaque séance, jet d'Esprit difficile, sinon bug majeur décidé par le MJ |
 | 10 : Écho | La machine devient un Écho et le joueur en perd le contrôle |

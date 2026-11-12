@@ -26,7 +26,7 @@ L'identité est le second pilier du jeu, avec la coopération : le livre pose le
 | --- | --- |
 | Le [[Nexus]] | Ce qu'on crée et les liens qu'on tisse |
 | Les [[Bergers]] | Chaque dormeur, original ou copie, est l'humanité qu'ils ont juré de protéger |
-| L'[[Eglise de la Prevision|Église de la Prévision]] | Le rôle que la Prévision nous assigne |
+| L'[[Eglise de la Prevision\|Église de la Prévision]] | Le rôle que la Prévision nous assigne |
 | Les [[Purs]] | Un corps vivant, autonome, sans machine pensante ; les clones restent des Calques |
 | Le Bal | Les [[Masques]] eux-mêmes sont divisés |
 

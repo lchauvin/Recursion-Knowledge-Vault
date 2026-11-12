@@ -16,8 +16,8 @@ Les dates se comptent en années après le Réveil (**AR**). Le présent du jeu 
 
 | Époque | Événement | Page |
 | --- | --- | --- |
-| Avant l'extinction | La Grande Apathie, puis la mission confiée aux machines et la création du [[Le Reve|Rêve]] | [[Chronologie]] |
-| Avant le Réveil | L'extinction, l'[[Erosion et Ancrage|Érosion]], la dérive, le clonage et l'escalade | [[Chronologie]] |
+| Avant l'extinction | La Grande Apathie, puis la mission confiée aux machines et la création du [[Le Reve\|Rêve]] | [[Chronologie]] |
+| Avant le Réveil | L'extinction, l'[[Erosion et Ancrage\|Érosion]], la dérive, le clonage et l'escalade | [[Chronologie]] |
 | An 0 AR | Le Réveil : une première vague d'humains sort du Rêve, sans que personne sache comment | [[Chronologie]] |
 | Premières décennies AR | Le Schisme, puis le traité de Kvasir et la fondation du [[Nexus]] | [[Le Schisme et le Premier Lien]] |
 | Jusqu'à 400 AR | Le Rêve abrite plusieurs milliards de dormeurs ; la [[Transhumance]] sillonne la Ceinture | [[Lieux]] |

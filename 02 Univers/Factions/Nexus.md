@@ -11,10 +11,10 @@ Le Nexus est la faction par défaut des personnages joueurs ; les autres fournis
 | Faction | Composition | Position |
 | --- | --- | --- |
 | Le Nexus | Humains et machines | Veut un partenariat libre entre les deux peuples |
-| Les [[Bergers]] | Machines | Poursuivent la mission confiée par les humains, soigner et préserver l'humanité dans le [[Le Reve|Rêve]], en récoltant l'[[Etincelle et Percee|Étincelle]] pour durer |
-| Les [[Purs]] | Humains ([[Eveilles|Éveillés]] et Nés-libres) | Rejettent les machines pensantes (IA, implants, Rêve) et toute alliance avec elles |
-| Les [[Echos|Échos]] | Machines très érodées | Imprévisibles, une menace presque naturelle plus qu'une faction organisée |
-| L'[[Eglise de la Prevision|Église de la Prévision]] | Surtout des machines, quelques fidèles humains | Vénère un modèle prédictif devenu dogme ; voit les humains comme hérésie et promesse |
+| Les [[Bergers]] | Machines | Poursuivent la mission confiée par les humains, soigner et préserver l'humanité dans le [[Le Reve\|Rêve]], en récoltant l'[[Etincelle et Percee\|Étincelle]] pour durer |
+| Les [[Purs]] | Humains ([[Eveilles\|Éveillés]] et Nés-libres) | Rejettent les machines pensantes (IA, implants, Rêve) et toute alliance avec elles |
+| Les [[Echos\|Échos]] | Machines très érodées | Imprévisibles, une menace presque naturelle plus qu'une faction organisée |
+| L'[[Eglise de la Prevision\|Église de la Prévision]] | Surtout des machines, quelques fidèles humains | Vénère un modèle prédictif devenu dogme ; voit les humains comme hérésie et promesse |
 
 ## Les failles du Nexus
 

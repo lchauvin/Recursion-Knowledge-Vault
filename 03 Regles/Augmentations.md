@@ -21,7 +21,7 @@ visibilite: joueurs
 | Réflexes câblés | +1 dé aux actions d'Agilité | Nervosité : −1 dé pour garder son calme face aux autres |
 | Œil synthétique | Vision nocturne et thermique ; +1 dé en Tir et pour observer | Une machine qui le pirate voit ce que le porteur voit |
 | Mémoire étendue | +2 dés en Savoir ; aucun oubli | Impossible de dépenser une Étincelle sur un jet de Savoir |
-| Interface neurale | +2 dés en Piratage ; entrée dans le [[Le Reve|Rêve]] depuis n'importe quel terminal | Chaque entrée dans le Rêve fait monter la Vigilance de 1 |
+| Interface neurale | +2 dés en Piratage ; entrée dans le [[Le Reve\|Rêve]] depuis n'importe quel terminal | Chaque entrée dans le Rêve fait monter la Vigilance de 1 |
 | Régulateur émotionnel | +2 dés pour résister à la peur, à la manipulation et à l'Emprise | −1 dé en Persuasion et en Intuition (froideur) |
 | Système de survie | Respirer dans le vide ou un air toxique ; +2 dés en Survie | Sans maintenance à chaque séance, −1 dé aux actions physiques |
 
