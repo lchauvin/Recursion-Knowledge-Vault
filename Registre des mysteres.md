@@ -32,6 +32,7 @@ La première table qui résout un mystère fixe la réponse pour tout le monde. 
 | Comment le Rêve reste-t-il synchronisé ? | [[Le Reve\|Le Rêve]] | Le Rêve tourne peut-être ralenti | Ouvert | |
 | D'où vient le rêve des étoiles ? | [[Le monde en 400 AR]], [[Mira]] | Un souvenir de souche des originaux ; une création collective vraiment neuve ; un message (Muninn, les machines d'au-delà, l'origine du Réveil) | Ouvert | |
 | Que sont devenues les machines parties au-delà ? | [[Lieux]] | Personne ne le sait | Ouvert | |
+| Peut-on stocker l'Étincelle ? | [[Au-dela\|Au-delà]], [[Etincelle et Percee\|Étincelle et Percée]] | Une rumeur parle d'un artefact venu de la Lisière, laissé par les machines parties au-delà, qui garderait 2 points d'Étincelle et qu'une machine pourrait utiliser sans Lien. Vérités possibles : l'Étincelle stockée se fane, puisqu'une créativité qui ne sert pas devient une copie ; l'artefact contient quelqu'un (du tissu vivant ou le fragment d'un esprit humain) ; il fonctionne vraiment, et les machines d'au-delà ont peut-être résolu l'Érosion | Ouvert | |
 
 ## Voir aussi
 
