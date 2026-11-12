@@ -51,7 +51,7 @@ Vous jouerez des humains et des machines qui ont besoin les uns des autres, sans
 
 - **Des Liens :** chaque personnage est lié à au moins un personnage de l'autre nature. L'humain apporte sa créativité, la machine sa fiabilité.
 - **Des ressources fragiles :** l'Étincelle des humains est précieuse et rare ; l'Érosion des machines est une menace permanente.
-- **Le Rêve :** un monde simulé où les humains peuvent plier la réalité, et où vivent des milliards de personnes qui ne savent pas qu'elles rêvent. C'est aussi le seul moyen rapide et discret de communiquer d'un bout à l'autre du système solaire.
+- **Le Rêve :** un monde simulé où les humains peuvent plier la réalité, et où vivent des milliards de personnes qui ne savent pas qu'elles rêvent. C'est aussi le seul moyen rapide et discret de communiquer d'un bout à l'autre du système solaire. Il est doux, et c'est son danger : qui y reste trop longtemps risque de ne plus vouloir en partir.
 - **Des dilemmes :** réveiller ou laisser dormir, révéler ou cacher, coopérer ou se protéger.
 - **Des questions d'identité :** chaque personnage porte la sienne, et le jeu la mettra à l'épreuve.
 

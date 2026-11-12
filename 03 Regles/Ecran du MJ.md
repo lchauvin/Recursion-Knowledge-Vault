@@ -52,7 +52,7 @@ Deux légères = une grave, deux graves = une critique. **Point de rupture :** l
 
 **Vigilance (0 à 6) :** +1 par modification visible et par échec. À chaque point, les Bergers font une modification. **3** → les Gardiens arrivent · **6** → les Portes se ferment.
 
-**Emprise :** jet d'Esprit (1 réussite) à chaque fois qu'on plie le Rêve ; + niveau du Lien si le partenaire garde le corps. **1er échec** → oublie la mission, −1 dé · **2e échec** → refuse de partir.
+**Emprise :** jet d'Esprit (1 réussite) à chaque fois qu'on plie le Rêve ; + niveau du Lien si le partenaire garde le corps. **1er échec** → oublie la mission, −1 dé (un allié dans le Rêve peut la lui rappeler : Persuasion ou Intuition 2, une fois par intrusion, +1 dé avec une ancre) · **2e échec** → refuse de partir. La machine qui garde le corps ressent un apaisement.
 
 **Blessures oniriques :** légère / grave / critique = humain −1 / −2 / −3 Étincelle (critique : éjection) · machine +1 / +2 / +3 Érosion. On ne meurt pas dans le Rêve : la mort vient du corps laissé dehors, et le personnage la sent venir (une scène pour sortir).
 
