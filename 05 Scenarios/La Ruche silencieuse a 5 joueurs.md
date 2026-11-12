@@ -37,6 +37,60 @@ Cinq rôles, chacun avec son fil personnel dans l'histoire.
 
 **Les Liens de départ (niveau 1) :** le rêveur avec la technicienne, le pilote avec la Voix, l'Incarné avec le rêveur. Le rêveur a donc besoin d'au moins 2 en Esprit (voir [[Le Lien]]).
 
+## Les personnages prétirés (optionnels)
+
+Pour une table qui préfère jouer sans créer ses personnages. Ils suivent la [[Creation de personnage|Création de personnage]] : 7 points d'attributs et 10 de compétences, plus les bonus de peuple.
+
+| Personnage | Rôle | Peuple | Vigueur | Agilité | Intellect | Esprit | Présence | Jauges |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nour | Le rêveur | Éveillé Intermédiaire (K-412/G14) | 2 | 2 | 2 | 4 | 2 | Étincelle 4 (plafond 6) |
+| Solène | Le pilote | Née-libre | 3 | 4 | 2 | 2 | 2 | Étincelle 5 (plafond 6) |
+| Lyre | La technicienne | Machine | 3 | 2 | 5 | 2 | 2 | Érosion 2 |
+| Psaume | La Voix | Machine | 2 | 1 | 4 | 3 | 4 | Érosion 2 |
+| Tilleul | L'Incarné | Hybride Incarné | 2 | 2 | 4 | 3 | 2 | Étincelle 3 (plafond 4), Érosion 2 |
+
+**Les Liens :** Nour et Lyre, Solène et Psaume, Tilleul et Nour (niveau 1).
+
+### Nour, Éveillé Intermédiaire
+
+- **Compétences :** Onirisme 3, Persuasion 3, Intuition 2, Médecine 2, Discrétion 1, Athlétisme 1 (sa compétence supplémentaire d'Intermédiaire).
+- **Son nom :** choisi à son réveil ; il veut dire « lumière ».
+- **Motivation :** savoir ce que la souche K-412 a été avant les codes.
+- **Faille :** il se sent responsable de chaque K-412 qu'il croise.
+- **Question d'identité :** « Si quelqu'un qui porte mon visage a eu une vie plus heureuse, laquelle de nos deux vies est la vraie ? »
+
+### Solène, Née-libre
+
+- **Compétences :** Pilotage 3, Survie 2, Intuition 2, Athlétisme 1, Tir 1, Discrétion 1.
+- **Particularités :** méfiante, ses Liens demandent une Épreuve de confiance de plus pour atteindre le niveau 2 ; pilote de la navette de la Transhumance.
+- **Motivation :** protéger la Transhumance, et retrouver sa sœur, emportée dans le Rêve par un « sauvetage » des Bergers il y a huit ans.
+- **Faille :** elle décide seule, et vite, dès qu'il s'agit des Bergers.
+- **Question d'identité :** « Si ma sœur ne me reconnaît pas, est-elle encore ma sœur ? »
+
+### Lyre, machine
+
+- **Compétences :** Piratage 3, Ingénierie 3, Savoir 2, Tir 1, Médecine 1.
+- **Particularités :** Calcul ; liée à Nour ; Esprit 2, donc fragile face à la contagion.
+- **Motivation :** réparer ce qui peut l'être, machines comme humains.
+- **Faille :** elle voit en Aster ce qu'elle deviendra, et refuse d'abandonner une machine qui sombre.
+- **Question d'identité :** « Quand ma mémoire s'efface, qu'est-ce qui reste de moi ? »
+
+### Psaume, machine
+
+- **Compétences :** Persuasion 3, Intuition 3, Piratage 2, Savoir 1, Discrétion 1.
+- **Particularités :** Calcul ; liée à Solène ; ancienne Convoyeuse de la flotte d'Héloïse, partie il y a dix ans.
+- **Motivation :** prouver qu'un dormeur peut choisir.
+- **Faille :** une loyauté qui ne s'est jamais éteinte envers Héloïse.
+- **Question d'identité :** « Ai-je quitté les Bergers par choix, ou par une erreur de calcul ? »
+
+### Tilleul, Hybride Incarné
+
+- **Compétences :** Ingénierie 3, Intuition 2, Savoir 2, Combat 2, Médecine 1.
+- **Particularités :** Calcul ; sa propre Étincelle, jamais combinée au Calcul sur la même action ; son tissu vivant, visible derrière une plaque translucide sur sa poitrine, doit être soigné à chaque séance.
+- **Motivation :** comprendre ce qui vit en lui, et à qui il le doit.
+- **Faille :** il porte la culpabilité des dormeurs dont on a pris les cellules.
+- **Question d'identité :** « Ce qui vit en moi est-il à moi ? »
+
 ## Avant de jouer
 
 - **La séance zéro :** lisez la [[Presentation pour les joueurs|Présentation pour les joueurs]], expliquez le jet de base, la dépense d'[[Etincelle et Percee|Étincelle]] et le [[Systeme de base|Calcul]]. Rappelez que le combat est rarement la meilleure option.
@@ -86,6 +140,8 @@ Cinq rôles, chacun avec son fil personnel dans l'histoire.
 
 - **Ruse ratée :** la navette est touchée ; chaque passager subit une blessure légère, le compte à rebours avance de 1, et le groupe peut tenter une autre voie.
 - **Parole ratée :** les défenses ciblent la navette. Le groupe passe à la ruse avec −1 dé, ou à la force.
+- **Force perdue :** si le groupe doit rompre le combat, la navette se replie hors de portée des tourelles. Chaque passager subit une blessure légère.
+- **Toutes les voies ont échoué :** chaque voie ratée peut être retentée, au prix d'une case du compte à rebours. La boucle des tourelles ne change pas : le groupe a appris quelque chose, et la nouvelle tentative gagne +1 dé.
 
 **Si les joueurs appellent la Ruche par radio :** seule la balise répond, avec la même liste de chiffres. Le rêveur y entend la berceuse.
 
@@ -137,7 +193,7 @@ Cette scène se joue sur deux tableaux. **Dedans :** le rêveur et le pilote, et
 
 > Une seconde de noir, puis l'odeur du pain chaud. Vous êtes dans une rue pavée, sous un ciel couleur de miel. La ville d'Ambre est belle, douce, un peu trop parfaite. Deux passants échangent exactement les mêmes mots que les deux passants d'avant. Au bout de la rue, un immeuble entier s'efface comme un dessin sous la gomme, et personne ne lève les yeux.
 
-**Ce qui se passe :** la ville d'Ambre se défait avec l'Érosion d'Aster. Il n'y a pas de [[Gardiens]], mais la Vigilance déclenche des effondrements : à 3, un quartier disparaît avec ses habitants ; à 6, toute la section s'éteint et les dormeurs risquent la mort.
+**Ce qui se passe :** la ville d'Ambre se défait avec l'Érosion d'Aster. Il n'y a pas de [[Gardiens]], mais la Vigilance déclenche des effondrements : à 3, un quartier disparaît avec ses habitants ; à 6, toute la section s'éteint et les dormeurs risquent la mort. **La Vigilance commence à 2, et non à 0 :** la section se défait déjà, et la moindre erreur peut faire disparaître un quartier. Tracez-la à côté du compte à rebours.
 
 ### Dedans
 
@@ -153,7 +209,7 @@ Cette scène se joue sur deux tableaux. **Dedans :** le rêveur et le pilote, et
 **Les rencontres**
 
 - **Mira (le rêveur) :** il doit la faire douter sans la briser (Persuasion ou Intuition, 2 réussites). C'est un moment de vérité possible : que ressent-on face à quelqu'un qui porte son propre visage ?
-- **Lise (le pilote) :** le pilote entre dans le Rêve lui aussi (Esprit + Onirisme, avec sa propre Étincelle) et la retrouve (Intuition, 2 réussites, ou avec l'aide du rêveur ou de Bastien). Lise ne le reconnaît pas, mais la chanson les relie.
+- **Lise (le pilote) :** le pilote entre dans le Rêve lui aussi, par une capsule de service, sans jet : on entre par une Porte (voir [[Le Reve|Le Rêve]]). Il la retrouve (Intuition, 2 réussites, ou avec l'aide du rêveur ou de Bastien). Lise ne le reconnaît pas, mais la chanson les relie.
 - **Côme (l'Incarné, s'il entre) :** comme toute machine, l'Incarné lit le code au lieu de le rêver (Intellect + Piratage, voir [[Le Reve|Le Rêve]]) ; il ne peut pas plier le Rêve. Côme ne sait rien de ses cellules, mais il traite l'Incarné comme un vieil ami, sans savoir pourquoi. Le faire douter demande Persuasion ou Intuition, 2 réussites. Faut-il lui dire la vérité ?
 - **Les autres dormeurs :** certains veulent partir, d'autres refusent, d'autres ne comprennent pas. Ils sont bien plus de 200 à vouloir partir.
 
@@ -163,7 +219,7 @@ Cette scène se joue sur deux tableaux. **Dedans :** le rêveur et le pilote, et
 
 ### Dehors
 
-- **La technicienne garde les corps :** elle ralentit l'effondrement de la ville d'Ambre (Piratage, 2 réussites : −1 Vigilance, une fois par intrusion). Si le groupe a fui les drones, ils peuvent revenir. Si un rêveur cède à l'Emprise, c'est elle qui tente l'extraction.
+- **La technicienne garde les corps :** elle ralentit l'effondrement de la ville d'Ambre (Piratage, 2 réussites : −1 Vigilance, une fois par intrusion). Si le groupe a fui les drones, ils peuvent revenir. Si les gardiens doivent fuir à leur tour, les corps restent sans protection : les rêveurs ressentent la menace dans le Rêve (un froid soudain, la ville d'Ambre qui frissonne) et ont une scène pour sortir, comme le prévoit la règle « Mourir dans le Rêve ? » du [[Le Reve|Rêve]]. Une machine restée à l'intérieur ressent la même alerte. S'ils ne sortent pas à temps, les drones atteignent les capsules : chaque rêveur subit une blessure grave dans le monde réel, et la déconnexion forcée devient la seule issue. Si un rêveur cède à l'Emprise, c'est elle qui tente l'extraction.
 - **La Voix tient Héloïse :** la flotte contacte la Ruche plus tôt que prévu. Héloïse veut savoir qui est à bord, et demande qu'on ne touche à rien. La Voix doit gagner du temps sans la braquer (Persuasion, 2 réussites). En cas de succès, elle apprend ce qu'Héloïse craint (perdre un seul dormeur), et le groupe gagne +1 dé pour la négociation de la scène 4. En cas d'échec, Héloïse presse le pas : +1 au compte à rebours.
 - **L'Incarné, s'il reste dehors, fait le tri de l'énergie :** avec la liste des capsules fragiles trouvée par le pilote, il détourne l'énergie des capsules vides vers les capsules orange (Ingénierie, 2 réussites ; sans la liste, 3 réussites). En cas de succès, les premières capsules lâcheront à 9 au lieu de 8 : le groupe gagne une marge à la fin, sans retarder l'arrivée d'Héloïse. En cas d'échec, une coupure traverse la ville d'Ambre : +1 Vigilance. Dans les deux cas, la capsule de Côme est parmi celles qu'il tient à bout de bras.
 - **Soigner le tissu de l'Incarné :** il doit être soigné pendant la séance, avec Médecine (voir [[Soins et repos]]). C'est un bon moment pour le pilote ou le rêveur à leur retour, et un moment partagé possible.
@@ -186,9 +242,18 @@ Cette scène se joue sur deux tableaux. **Dedans :** le rêveur et le pilote, et
 - **La Voix :** jusqu'où céder face à Héloïse ? Si elle est une ancienne machine des Bergers, Héloïse la reconnaît et lui propose de revenir : « Reste avec nous, et je laisse partir tes deux cents. »
 - **L'Incarné :** emmener Côme, dont la capsule faiblit, en prenant une place, ou le confier à Héloïse ? Héloïse remarque son tissu : « Ce qui vit en toi appartient à l'un de mes dormeurs. » Elle ne réclame rien, mais la question reste posée.
 
-**Négocier avec Héloïse :** la Voix mène la négociation, et les autres apportent leurs arguments. Le témoignage d'Aster, s'il est encore lucide, la parole d'un dormeur qui a choisi de partir, ou les données de la récolte trouvées dans le Rêve, peuvent la convaincre de laisser partir les volontaires (Persuasion, 3 réussites, ou moins avec un bon argument ; le pilote peut aider par la Synchronisation). Réussite partielle (2 réussites) : elle accepte, mais garde Aster ou exige une contrepartie. Échec : Héloïse refuse ; restent la ruse (embarquer les dormeurs en douce, Discrétion ou Pilotage, 3 réussites) ou la force.
+**Négocier avec Héloïse :** la Voix mène la négociation, et les autres apportent leurs arguments. Le témoignage d'Aster, s'il est encore lucide, la parole d'un dormeur qui a choisi de partir, ou les données de la récolte trouvées dans le Rêve, peuvent la convaincre de laisser partir les volontaires.
 
-**L'argument qui la trouble le plus :** un dormeur qui veut se réveiller, n'est-ce pas la preuve que la mission a enfin réussi ? Si un joueur le formule, accordez +1 dé, ou une réussite automatique.
+- **Le jet :** Persuasion de la Voix, opposée à celle d'Héloïse, un personnage majeur (8 dés, voir la [[Boite a outils du MJ|Boîte à outils du MJ]]). Le Calcul est permis.
+- **Les bonus :** chaque bon argument (Aster, un dormeur volontaire, les données de la récolte) vaut +1 dé ; le pilote peut aider par la Synchronisation (+1 dé) ; un bon contact avec Héloïse plus tôt dans la partie vaut +1 dé, une maladresse −1 dé.
+- **Plus de réussites qu'Héloïse :** elle laisse partir les volontaires.
+- **Égalité :** elle accepte, mais garde Aster ou exige une contrepartie.
+- **Moins de réussites :** Héloïse refuse ; restent la ruse (embarquer les dormeurs en douce, Discrétion ou Pilotage, 3 réussites), la force, ou accepter qu'elle emmène tous les dormeurs.
+- **Ruse partielle :** la navette part, mais Héloïse s'en aperçoit à temps pour reprendre une partie des capsules. Le groupe ne ramène qu'une centaine de dormeurs, et les joueurs choisissent lesquels.
+- **Ruse ratée :** Héloïse intercepte la navette, sans tirer. Elle fait reprendre les capsules et laisse partir le groupe : « Je ne vous en veux pas. Vous avez voulu les sauver, comme moi. » Le compte à rebours avance de 1. Le groupe peut encore lui parler une dernière fois, avec un nouvel argument pour seule chance.
+- **Quoi qu'il arrive,** les dormeurs convaincus dans le Rêve (Mira, Lise, Côme) se souviendront qu'on leur a promis le réveil : une accroche pour une suite.
+
+**L'argument qui la trouble le plus :** un dormeur qui veut se réveiller, n'est-ce pas la preuve que la mission a enfin réussi ? Si un joueur le formule, accordez +1 dé.
 
 **Choisir les 200 :** les volontaires, les plus fragiles, les enfants, Mira, Lise, Côme ? Le scénario ne donne pas de réponse. Laissez la table débattre, sans intervenir, et laissez les silences s'installer.
 
