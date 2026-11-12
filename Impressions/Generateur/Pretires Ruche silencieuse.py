@@ -71,7 +71,9 @@ PJ = [
          motivation="Réparer ce qui peut l’être, machines comme humains.",
          faille="Elle voit dans chaque machine qui s’érode ce qu’elle deviendra, et refuse d’en abandonner une qui sombre.",
          question="« Quand ma mémoire s’efface, qu’est-ce qui reste de moi ? »",
-         partic="Calcul. Esprit 2 : fragile face à la contagion quand elle pirate une machine érodée."),
+         partic="Calcul. Esprit 2 : fragile face à la contagion quand elle pirate une machine érodée.",
+         corps="après le Schisme, un corps rapiécé : un torse de drone et des bras faits pour soigner les dormeurs.",
+         detail="le rêveur : une petite étoile peinte au dos de sa main droite, celle qui répare."),
     dict(role="LA VOIX", peuple="Machine", gen="Ancienne Convoyeuse des Bergers", faction="Transhumance", souche="—",
          attrs=[2, 1, 4, 3, 4],
          comps={"Persuasion": 3, "Intuition": 3, "Piratage": 2, "Savoir": 1, "Discrétion": 1},
@@ -80,7 +82,9 @@ PJ = [
          motivation="Prouver qu’un dormeur peut choisir.",
          faille="Une loyauté qui ne s’est jamais éteinte envers Héloïse.",
          question="« Ai-je quitté les Bergers par choix, ou par une erreur de calcul ? »",
-         partic="Calcul. Ancienne Convoyeuse de la flotte de la Bergère Héloïse, partie il y a dix ans."),
+         partic="Calcul. Ancienne Convoyeuse de la flotte de la Bergère Héloïse, partie il y a dix ans.",
+         corps="la mission, un corps de Convoyeuse conçu pour soigner les dormeurs, long et blanc, aux bras fins.",
+         detail="le pilote : une bande rouge de la Transhumance, peinte par-dessus son numéro de Convoyeuse."),
     dict(role="L’INCARNÉ", peuple="Hybride Incarné", gen="", faction="Transhumance", souche="—",
          attrs=[2, 2, 4, 3, 2],
          comps={"Ingénierie": 3, "Intuition": 2, "Savoir": 2, "Combat": 2, "Médecine": 1},
@@ -89,7 +93,9 @@ PJ = [
          motivation="Comprendre ce qui vit en lui, et à qui il le doit.",
          faille="Son tissu vivant a été cultivé à partir de cellules prélevées sur des dormeurs, à leur insu : il en porte la culpabilité.",
          question="« Ce qui vit en moi est-il à moi ? »",
-         partic="Calcul ; sa propre Étincelle, jamais combinée au Calcul sur la même action. Son tissu vivant, visible derrière une plaque translucide sur sa poitrine, doit être soigné à chaque séance, sinon −1 Étincelle."),
+         partic="Calcul ; sa propre Étincelle, jamais combinée au Calcul sur la même action. Son tissu vivant, visible derrière une plaque translucide sur sa poitrine, doit être soigné à chaque séance, sinon −1 Étincelle.",
+         corps="la mission, un corps conçu pour soigner les dormeurs, ouvert pendant la dérive pour la plaque.",
+         detail="le rêveur : une feuille séchée, glissée sous le bord de la plaque translucide."),
 ]
 
 
@@ -173,8 +179,16 @@ def page2(c):
     s = '<div class="lien">'.join(boxes)
     s = one(s, '<div><span class="etiq">Motivation</span>%s</div>' % (L * 6), texte("Motivation", c["motivation"], 4))
     s = one(s, '<div><span class="etiq">Faille</span>%s</div>' % (L * 6), texte("Faille", c["faille"], 4))
+    lignes_partic = 2 if c.get("corps") else 3
     s = one(s, '<div><span class="etiq">Question d’identité</span>%s</div>' % (L * 6),
-            texte("Question d’identité", c["question"], 4) + "\n    " + texte("Particularités", c["partic"], 3))
+            texte("Question d’identité", c["question"], 4) + "\n    " + texte("Particularités", c["partic"], lignes_partic))
+    if c.get("corps"):
+        # Machine : le choix du nom d'Eveille ne la concerne pas ; on le remplace par son corps.
+        s, n = re.subn(r'<div class="choix">.*?</div>\s*<div class="champ"><span class="etiq">Machine&nbsp;: époque du corps, détail ajouté par l’humain</span><div class="ligne"></div></div>',
+                       texte("Machine : époque du corps, détail ajouté par l’humain",
+                             "Époque : %s<br>Détail ajouté par %s" % (c["corps"], c["detail"]), 2),
+                       s, flags=re.S)
+        assert n == 1, "bloc machine"
     if c.get("nom_choisi"):
         s = one(s, '<span class="rond mini"></span>%s</span>' % c["nom_choisi"],
                 '<span class="rond mini plein"></span>%s</span>' % c["nom_choisi"])
