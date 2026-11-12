@@ -18,7 +18,8 @@ Un scénario d'introduction pour cinq joueurs, qui créent leurs propres personn
 ## Comment utiliser ce scénario
 
 - **Les passages encadrés** sont à lire ou à paraphraser à voix haute.
-- **Chaque scène** suit la même structure : l'objectif, le texte d'ambiance, ce qui se passe, les indices, un rôle pour chaque personnage, les jets, les échecs et la transition.
+- **Chaque scène** suit la même structure : l'objectif, le texte d'ambiance, le décor (ce qu'on voit, ce qu'on entend, ce qu'on sent, et qui est là), ce qui se passe, les indices, un rôle pour chaque personnage, les jets, les échecs et la transition.
+- **Le décor** sert à improviser : piochez un ou deux détails quand les joueurs regardent autour d'eux, plutôt que de tout lire d'un bloc. Les portraits des personnages non joueurs donnent leur allure, leur voix et leurs gestes.
 - **Le principe :** il n'y a pas de bonne réponse. Votre rôle est de rendre chaque choix difficile, jamais de pousser vers une solution.
 - **Le rythme :** environ 20 minutes de mise en place, puis 35 minutes pour la scène 1, 50 pour la scène 2, 70 pour la scène 3 et 50 pour la scène 4.
 - **Les jets** sont attribués à un rôle, pas à un personnage précis. Si la table s'organise autrement, donnez le jet au personnage qui a la compétence.
@@ -107,6 +108,27 @@ Pour une table qui préfère jouer sans créer ses personnages. Ils suivent la [
 
 **Le compte à rebours :** une piste de 8 cases, qui commence à 1 et avance à chaque échec et quand du temps passe ; chaque case vaut deux heures dans l'histoire. En mode libre, le MJ l'avance quand une action longue s'achève (une négociation, une fouille ou une exploration du Rêve valent environ une case). En mode chronométré, une case passe toutes les 25 minutes réelles. À 6, la flotte d'Héloïse arrive et la scène 4 commence. À 8, les premières capsules lâchent. Tracez la piste sur une feuille visible de tous.
 
+### Le décor : la Transhumance et la navette
+
+Ce décor se joue pendant les 20 minutes de mise en place, sans jet : le temps de présenter les personnages, et de leur faire sentir ce qu'ils laissent derrière eux en partant.
+
+> À 4 h 12, la Transhumance dort à moitié. Dans les coursives du Primus, les veilleuses donnent aux murs une couleur d'ambre sale. On entend les pompes des Serres, le ronflement d'un cargo amarré par une passerelle, un enfant qui pleure deux ponts plus bas. Puis l'alarme du conseil : trois notes, répétées. Une minute plus tard, la coursive est pleine de gens en pyjama, de machines aux yeux allumés, de questions. Quelqu'un a déjà affiché la balise sur l'écran du Marché. Des chiffres, rien que des chiffres. Et, juste en dessous, le second signal : une flotte de Bergers.
+
+**À bord du Primus** (voir [[La flotte de la Transhumance#Le Primus|le Primus]], et ses lieux : la Colonne, les Alvéoles, le Marché, les Serres) :
+
+- **Ce qu'on voit :** des coursives étroites, couvertes de câbles et de dessins d'enfants ; des réveillés en blouse d'infirmerie qui tiennent mal debout ; des machines de toutes les époques, rapiécées, avec un détail peint ou gravé par leur humain ; au bout du pont, le Mur des noms choisis, couvert de milliers de noms.
+- **Ce qu'on entend :** les pompes, les passerelles qui grincent quand la flotte corrige sa route, des disputes à voix basse, une radio qui passe une chanson échangée au Marché.
+- **Ce qu'on sent :** la sueur, l'huile chaude, l'odeur de terre qui monte des Serres.
+- **Qui est là :** la flotte entière, réveillée par l'alarme. Le conseil décide vite : une seule navette part, avec les personnages. Des inconnus leur glissent des noms à chercher dans les Ruches, une photo, un dessin. Personne d'autre ne vient : les autres équipages sont déjà loin, et il faut quelqu'un pour tenir la flotte.
+
+**La navette :** un ancien transporteur de la mission, à la coque blanche cabossée, repeinte par endroits aux couleurs de la Transhumance.
+
+- **Le poste de pilotage :** deux sièges usés, des écrans de récupération fixés avec du fil de fer, une petite plante dans un gobelet, accrochée par quelqu'un qui n'est plus là.
+- **La soute :** 200 berceaux à capsules, vides, alignés en rangées. Quand la navette accélère, leurs sangles tintent toutes ensemble, comme un carillon. C'est l'image du dilemme : les joueurs la verront à chaque passage dans la soute.
+- **Le son :** un moteur qui ronronne, un ventilateur qui siffle, et la balise de la Ruche, que la radio capte en boucle pendant tout le trajet.
+- **Qui est là :** les cinq personnages, et personne d'autre. Une fois la Transhumance hors de portée, ils sont seuls.
+- **Une idée :** si la navette n'a pas de nom, laissez les joueurs lui en donner un pendant le trajet. Comme le nom des Éveillés, c'est un petit acte de création.
+
 ## Les personnages non joueurs
 
 - [[Aster]], le Berger de la Ruche, au Seuil de l'[[Erosion et Ancrage|Érosion]].
@@ -116,11 +138,36 @@ Pour une table qui préfère jouer sans créer ses personnages. Ils suivent la [
 - [[Bastien]], un Lucide de la ville d'Ambre.
 - **Côme**, un vieil horloger de la ville d'Ambre. Il y a des décennies, des cellules ont été prélevées sur son corps endormi pour cultiver le tissu vivant de l'Incarné. Il l'ignore. Il passe ses journées à réparer une horloge qui ne veut pas repartir : celle du bâtiment administratif.
 
+### Les portraits
+
+**Aster.** Son corps principal est une machine de la mission (voir [[L aspect des machines|L'aspect des machines]]) : longue, voûtée par l'âge, autrefois blanche comme du matériel d'hôpital, aujourd'hui grise de poussière de roche. Il a six bras fins ; deux pendent, inertes, et l'un d'eux continue de caresser l'air. Mais Aster n'est pas seulement ce corps : un Berger Résident habite toute sa Ruche. Quand il parle, sa voix sort aussi des haut-parleurs de la galerie, avec un léger retard, si bien que chaque phrase revient en écho le long des allées. Quand il est lucide, les haut-parleurs se taisent, et il ne reste que la voix de son corps, toute proche, étonnamment claire. Il appelle chaque dormeur par son nom du Rêve, et il parle d'eux au présent, comme d'enfants dans la pièce d'à côté.
+
+**Héloïse.** Une Bergère de la même époque qu'Aster, mais impeccable : longue, blanche, sans une rayure, ses bras fins repliés contre son torse comme les mains d'une infirmière. Sa tête est un ovale lisse, traversé d'une bande de lumière douce qui s'éclaire quand elle parle. Sa voix est calme, presque maternelle, jamais pressée. Elle appelle les dormeurs « mes dormeurs », et les personnages par leur rôle ou leur nom s'ils le lui donnent. Elle ne hausse jamais le ton : quand elle n'est pas d'accord, elle se tait un instant, et ce silence pèse plus lourd qu'une menace. Face à Aster, elle montre ce qu'il aurait pu rester : c'est la même machine, sans l'Érosion.
+
+**Mira.** Elle a le visage du rêveur, avec quelques années de plus : les mêmes yeux, la même façon de pencher la tête, mais des rides de rire que le rêveur n'a pas. Elle a de la farine jusqu'aux coudes, un tablier taché, et elle parle en pétrissant. Un vieux chat roux dort sur le comptoir de sa boulangerie. Quand elle voit le rêveur pour la première fois, elle se tait au milieu d'une phrase, puis éclate de rire, parce qu'elle ne sait pas quoi faire d'autre.
+
+**Lise, sous le nom d'Anna.** Une jeune femme aux cheveux noués à la va-vite, de l'encre sur les doigts, une voix qui porte sans jamais crier. Elle enseigne la musique sur un vieux piano désaccordé. Quand elle réfléchit, elle enroule une mèche de cheveux autour de son doigt : un geste que le pilote connaît, parce que leur mère avait le même. Elle est heureuse, vraiment, et c'est ce qui rend la scène difficile.
+
+**Bastien.** Un vieil homme en gilet de laine, assis sur le même banc depuis des années, un sac de miettes sur les genoux. Les pigeons qu'il nourrit refont exactement le même vol toutes les trois minutes, et il les regarde avec tendresse, comme on regarde une vieille horloge. Il a l'œil vif, un sourire en coin, et l'air de quelqu'un qui connaît déjà la fin de l'histoire.
+
+**Côme.** Un vieil horloger maigre, une loupe vissée à l'œil, un tablier aux poches pleines de rouages. Il travaille au pied de l'horloge arrêtée du bâtiment administratif, sur un établi pliant qu'il remonte chaque matin au même endroit. Il fredonne en travaillant, au rythme d'un tic-tac que personne d'autre n'entend. Il accueille l'Incarné avec un « Ah, te voilà ! » chaleureux, comme un ami qu'il attendait. Le tissu vivant de l'Incarné semble se réchauffer près de lui : c'est une impression, sans effet de jeu.
+
+**Les drones de maintenance.** Ceux qui fonctionnent encore sont de petites machines blanches à huit bras, de la taille d'un chien, qui glissent entre les capsules sans un bruit. Ils suivent Aster comme un troupeau, et s'arrêtent quand il s'arrête. Ceux qui ont sombré, le Chœur, ont la même forme, brûlée par le givre. Ils ne répondent plus à Aster. Ils répètent les gestes du soin : essuyer un verre, vérifier un pouls, border un dormeur, avec une force qui fêle les capsules. Ils fredonnent, eux aussi, des morceaux de la berceuse, tous ensemble et jamais tout à fait juste.
+
+**Les dormeurs d'Ambre.** Des gens ordinaires et gentils, qui vivent la même belle journée sans le savoir : un facteur, des enfants, des commerçants, un musicien de rue qui joue toujours le même air. Ils saluent les personnages comme des voisins. Ceux dont la capsule faiblit ont froid sans comprendre pourquoi : ils portent un manteau en plein été et se frottent les mains. Parmi les élèves d'Anna, il y a Élio, le petit garçon dont parle Aster : il fait des cauchemars, et sa capsule a un voyant orange.
+
 ## Scène 1 : l'approche
 
 **Objectif :** entrer dans la Ruche.
 
 > La Ruche 7-Delta grossit dans le hublot : une patate de roche grise, hérissée d'antennes. Des lumières clignotent le long de sa coque, sans aucun rythme. Une tourelle pivote vers vous et tire. Le tir passe loin. Une deuxième tourelle pivote, tire exactement au même endroit. Puis la première recommence. Les défenses tournent en boucle, comme si elles rejouaient sans fin la même bataille.
+
+**Le décor**
+
+- **Le trajet :** quelques heures dans la Ceinture. Par le hublot, rien, ou presque : des cailloux noirs qui passent sans bruit, si loin qu'on les voit à peine bouger. Le Soleil n'est qu'une étoile plus brillante que les autres. La radio crachote la balise en boucle, et chacun finit par connaître les chiffres par cœur.
+- **La Ruche, de près :** la roche est criblée de petits cratères, et couverte d'une fine couche de givre là où l'air fuit. Les antennes sont tordues, certaines arrachées. Le long de la coque, on devine des inscriptions repeintes cent fois, et un ancien logo de Berger, effacé jusqu'à n'être plus qu'une ombre. Trois bouches de hangar s'ouvrent dans la roche ; une seule est éclairée.
+- **Les tourelles :** de vieilles pièces blanches de la mission, conçues pour éloigner plutôt que détruire. Chaque tir illumine un instant la roche d'une lueur bleue, sans aucun bruit, puisque le son ne porte pas dans le vide. Seule la navette fait du bruit : l'alarme de proximité, le moteur qui force, et, si elle est touchée, un choc sourd qui résonne dans toute la coque et fait tinter les sangles de la soute.
+- **Qui est là :** personne. Aucun vaisseau autour de la Ruche, aucune réponse humaine. La flotte d'Héloïse n'est qu'un point sur l'écran radar, encore loin.
 
 **Indice à distiller :** les tourelles tirent toujours dans le même ordre, aux mêmes endroits.
 
@@ -150,11 +197,29 @@ Pour une table qui préfère jouer sans créer ses personnages. Ils suivent la [
 
 **Transition :** la navette se pose dans un hangar couvert de givre. Le compte à rebours avance de 1.
 
+> Les patins de la navette crissent sur le givre. Le hangar est immense et vide. Vos projecteurs balaient des quais de chargement déserts, des chariots à capsules alignés, une couche de glace sur tout ce qui ne bouge pas. Quand le sas s'ouvre, le froid s'engouffre : le souffle des humains forme aussitôt un nuage, et le givre se dépose sur la carcasse des machines. Il n'y a pas un bruit. Puis, très loin, quelque part dans la roche, quelqu'un fredonne.
+
+**Le hangar :** les humains voient leur souffle, et le métal colle aux doigts nus. L'air sent la pierre froide et l'ozone. Sur un quai, une rangée de chariots attend des capsules qui ne sont jamais venues, sous une épaisse couche de givre. Un panneau d'affichage clignote encore, avec un horaire de transfert vieux de plusieurs années. Une porte de service mène vers les galeries ; derrière, le fredonnement se rapproche.
+
 ## Scène 2 : le Berger Aster
 
 **Objectif :** comprendre ce qui se passe et obtenir la liste des dormeurs.
 
 > Les couloirs sont glacés. Des milliers de capsules s'alignent dans la pénombre, chacune éclairée d'un petit voyant bleu. Certains voyants sont orange. Quelques-uns sont éteints. Au bout d'une allée, une silhouette s'active : une machine haute et voûtée, qui caresse le verre d'une capsule vide en fredonnant une berceuse. Elle se tourne vers vous, et vous dit doucement : « Ne faites pas de bruit. Ils dorment. »
+
+**Le décor**
+
+- **Les galeries :** des allées numérotées, assez larges pour un chariot, qui s'enfoncent dans la roche à perte de vue. De chaque côté, les capsules sont empilées sur six niveaux, comme des alvéoles. Derrière chaque verre, un visage endormi, éclairé par en dessous par la lueur de son voyant. Des familles entières de visages identiques : les souches. Plus on avance, plus les voyants orange sont nombreux ; dans certaines allées, des rangées entières sont éteintes, et le verre est couvert de givre de l'intérieur.
+- **Ce qu'on entend :** le bourdonnement des capsules, qui forme une note continue ; de temps en temps, le cliquetis d'une capsule qui corrige sa température ; des gouttes qui tombent quelque part. Et la berceuse d'Aster, partout à la fois, qui sort des haut-parleurs le long des allées.
+- **Ce qu'on sent :** le métal froid, l'antiseptique, la poussière de roche. Près des capsules éteintes, rien du tout.
+- **Qui est là :** Aster, dans son corps et dans toute la Ruche, ses drones de maintenance, et 4 000 dormeurs. Personne d'autre n'est éveillé : aucun équipage, aucun Berger, aucun renfort possible.
+
+**Les autres lieux de la Ruche** (sans jet, à décrire si les joueurs s'y rendent)
+
+- **La loge du Berger :** une petite salle au bout de la galerie principale, là où Aster veille depuis trois siècles. Les murs sont couverts de listes de noms, écrites et réécrites, et de dessins d'enfants copiés du Rêve : des maisons, des soleils, un chat roux. Un dessin revient plus que les autres, signé Élio. Sur une étagère, des objets recopiés de la simulation : une tasse, une clé, une poupée.
+- **Les registres physiques :** une salle d'archives glaciale, où s'alignent des tablettes de données anciennes et de longs rouleaux imprimés, tenus à jour à la main par habitude. Les dernières entrées sont de plus en plus tremblées, puis la même ligne se répète sur des pages entières.
+- **Le cœur :** une caverne où les machines qui relient la Ruche au Rêve ronflent dans la chaleur, le seul endroit tiède de la Ruche. Au centre, une rangée de capsules de service, vides, ouvertes : les Portes.
+- **La pouponnière (facultatif) :** une salle fermée, où les cuves de clonage préparent les prochaines générations. Aster n'en parle pas et n'y entre plus. Elle n'est utile à aucune voie. Ne la montrez que si les joueurs la cherchent ; un rêveur qui y découvre des cuves de sa souche vit un moment de vérité (voir [[Les Ruches]]).
 
 **Ce qui se passe :** Aster est au Seuil de l'Érosion. Il alterne les boucles et les moments de lucidité. Il ne se méfie pas : il est soulagé que quelqu'un soit enfin venu.
 
@@ -194,6 +259,15 @@ Cette scène se joue sur deux tableaux. **Dedans :** le rêveur et le pilote, et
 
 > Une seconde de noir, puis l'odeur du pain chaud. Vous êtes dans une rue pavée, sous un ciel couleur de miel. La ville d'Ambre est belle, douce, un peu trop parfaite. Deux passants échangent exactement les mêmes mots que les deux passants d'avant. Au bout de la rue, un immeuble entier s'efface comme un dessin sous la gomme, et personne ne lève les yeux.
 
+**Le décor : la ville d'Ambre**
+
+- **La lumière :** c'est toujours la fin d'un bel après-midi. Le soleil reste bas, au même endroit, et les ombres ne bougent pas. Tout a une teinte dorée, un peu trop chaude, comme une vieille photographie.
+- **Ce qu'on voit :** des rues pavées qui montent et descendent, des façades de pierre blonde aux volets peints, des fleurs aux fenêtres, des terrasses de café. En regardant bien, les détails se répètent : la même fissure sur trois murs, le même pot de géraniums à chaque fenêtre d'une rue, la même affiche collée dix fois. Aux bords de la ville, les rues s'arrêtent sur une brume dorée, et au-delà, plus rien.
+- **Ce qu'on entend :** des pas sur les pavés, des conversations tranquilles, des enfants qui chantent quelque part, toujours la même chanson ; un musicien de rue qui rejoue le même air ; des cloches qui ne sonnent jamais, puisque l'horloge de la ville est arrêtée. Quand un quartier s'efface, il n'y a aucun bruit : seulement un léger souffle, comme une page qu'on tourne.
+- **Ce qu'on sent :** le pain chaud, le café, les fleurs, la pierre chauffée par le soleil. Près des quartiers dont les capsules faiblissent, l'air fraîchit, et l'odeur du pain s'efface.
+- **Qui est là :** des milliers de dormeurs, qui vivent leur journée sans savoir qu'ils rêvent : des passants, des commerçants, des enfants, des vieux sur les bancs. Ils sont aimables, et ne voient rien d'étrange. Pas de Gardiens, pas d'autres intrus : les seuls éveillés de la ville sont les personnages et Bastien.
+- **Ce que perçoit l'Incarné, s'il entre :** il lit le code au lieu de le rêver. Une suggestion pour le décrire : il voit la même ville, mais par moments les façades laissent deviner leur structure, comme un plan sous un calque, et il remarque les répétitions avant les autres.
+
 **Ce qui se passe :** la ville d'Ambre se défait avec l'Érosion d'Aster. Il n'y a pas de [[Gardiens]], mais la Vigilance déclenche des effondrements : à 3, un quartier disparaît avec ses habitants ; à 6, toute la section s'éteint et les dormeurs risquent la mort. **La Vigilance commence à 2, et non à 0 :** la section se défait déjà, et la moindre erreur peut faire disparaître un quartier. Tracez-la à côté du compte à rebours.
 
 **Quand un quartier disparaît :** jamais celui où se trouvent les personnages, mais toujours à portée de vue, au bout de la rue. Ses dormeurs ne meurent pas : Aster les recase dans les quartiers voisins, comme on déplace des fichiers, et ils continuent leur vie comme si de rien n'était. Pour eux, tout est normal. La trace reste visible pour qui sait regarder (Intuition, 1 réussite) : le même boulanger tient deux boutiques côte à côte, une famille s'installe dans une maison déjà habitée, et personne ne s'en étonne. Si le quartier disparu est celui de Mira, de Lise ou de Côme, il faut le ou la retrouver ailleurs, ce qui coûte un jet ou une case du compte à rebours. À 6, en revanche, il n'y a plus aucun quartier où les envoyer : toute la ville d'Ambre s'éteint d'un coup.
@@ -209,6 +283,14 @@ Cette scène se joue sur deux tableaux. **Dedans :** le rêveur et le pilote, et
 La vraie catastrophe est ailleurs : les dormeurs risquent la mort, et tout ce qui n'a pas été accompli dans le Rêve est perdu (Mira, Lise, Côme, les données de la récolte).
 
 ### Dedans
+
+**Les lieux d'Ambre**
+
+- **Le banc de Bastien :** sur une petite place ronde, au bord d'une fontaine dont l'eau retombe toujours avec le même bruit. Les pigeons tournent au-dessus de la place, reviennent, repartent. Bastien est là, un sac de miettes sur les genoux.
+- **La boulangerie de Mira :** une vitrine embuée, une clochette au-dessus de la porte, des pains alignés sur des étagères de bois, et la chaleur du four qui fait du bien après la rue. Des habitués entrent, achètent le même pain, disent la même phrase sur le temps qu'il fait. Le vieux chat roux dort sur le comptoir, au soleil.
+- **L'école :** un petit bâtiment au fond d'une cour plantée de tilleuls. Par les fenêtres ouvertes, on entend une vingtaine d'enfants chanter, accompagnés d'un piano désaccordé. Dans la classe, des dessins aux murs, des pupitres de bois, et Anna, debout près du piano, qui bat la mesure.
+- **Le bâtiment administratif :** au centre de la ville, sur une grande place vide. C'est le seul bâtiment sans fleurs ni volets : une façade lisse, trop propre, dont les vitres ne reflètent ni le ciel ni les passants. Les dormeurs le contournent sans y penser. Sur la façade, la grande horloge est arrêtée. Au pied de l'horloge, l'établi pliant de Côme.
+- **Les quartiers qui s'effacent :** quand la Vigilance monte, un quartier pâlit d'abord, comme un dessin délavé, puis disparaît, avec ses rues et ses habitants. À sa place reste une brume dorée. Les dormeurs recasés dans les quartiers voisins continuent leur vie : le même boulanger dans deux boutiques côte à côte, deux familles qui partagent la même maison sans s'en étonner.
 
 **Les indices à distiller**
 
@@ -232,6 +314,8 @@ La vraie catastrophe est ailleurs : les dormeurs risquent la mort, et tout ce qu
 
 ### Dehors
 
+**Le décor, pendant ce temps :** les gardiens sont dans le cœur de la Ruche, la seule salle tiède, près des capsules de service où dorment leurs amis. Derrière le verre, les visages des rêveurs bougent par moments : un sourire, un froncement de sourcils, les yeux qui roulent sous les paupières. Les écrans de contrôle affichent la Vigilance d'Ambre sous forme d'une courbe qui tremble. Aster vient et repart, fredonne, s'arrête pour regarder les capsules de service : « Ils sont bien, là-dedans. Ils sont bien. » Une machine liée ressent les émotions de son humain : la douceur du Rêve lui arrive comme un apaisement, et c'est ce qui doit l'inquiéter (voir [[Le Reve|Le Rêve]], « Ce que ressent le gardien »). Personne d'autre n'est éveillé dans la Ruche.
+
 - **La technicienne garde les corps :** elle ralentit l'effondrement de la ville d'Ambre (Piratage, 2 réussites : −1 Vigilance, une fois par intrusion). Si le groupe a fui les drones, ils peuvent revenir. Si les gardiens doivent fuir à leur tour, les corps restent sans protection : les rêveurs ressentent la menace dans le Rêve (un froid soudain, la ville d'Ambre qui frissonne) et ont une scène pour sortir, comme le prévoit la règle « Mourir dans le Rêve ? » du [[Le Reve|Rêve]]. Une machine restée à l'intérieur ressent la même alerte. S'ils ne sortent pas à temps, les drones atteignent les capsules : chaque rêveur subit une blessure grave dans le monde réel, et la déconnexion forcée devient la seule issue. Si un rêveur cède à l'Emprise, c'est elle qui tente l'extraction.
 - **La Voix tient Héloïse :** la flotte contacte la Ruche plus tôt que prévu. Héloïse veut savoir qui est à bord, et demande qu'on ne touche à rien. La Voix doit gagner du temps sans la braquer (Persuasion, 2 réussites). En cas de succès, elle apprend ce qu'Héloïse craint (perdre un seul dormeur), et le groupe gagne +1 dé pour la négociation de la scène 4. En cas d'échec, Héloïse presse le pas : +1 au compte à rebours.
 - **L'Incarné, s'il reste dehors, fait le tri de l'énergie :** avec la liste des capsules fragiles trouvée par le pilote, il détourne l'énergie des capsules vides vers les capsules orange (Ingénierie, 2 réussites ; sans la liste, 3 réussites). En cas de succès, les premières capsules lâcheront à 9 au lieu de 8 : le groupe gagne une marge à la fin, sans retarder l'arrivée d'Héloïse. En cas d'échec, une coupure traverse la ville d'Ambre : +1 Vigilance. Dans les deux cas, la capsule de Côme est parmi celles qu'il tient à bout de bras.
@@ -244,6 +328,13 @@ La vraie catastrophe est ailleurs : les dormeurs risquent la mort, et tout ce qu
 **Objectif :** décider qui part, et à quel prix.
 
 > Tous les écrans du hangar s'allument en même temps. Douze vaisseaux blancs, en formation parfaite, se placent autour de la Ruche. Une voix douce, presque maternelle, remplit les haut-parleurs : « Ici Héloïse. Je viens chercher mes dormeurs. Tous mes dormeurs. »
+
+**Le décor**
+
+- **La flotte :** douze Convoyeurs de la mission, longs et blancs comme des instruments d'hôpital, chacun portant sous son ventre des centaines de berceaux à capsules. Ce sont les mêmes vaisseaux que la navette des personnages, en plus grand, et parfaitement entretenus : à côté d'eux, la navette a l'air d'une copie fatiguée. Ils se placent sans un à-coup, et leurs projecteurs inondent les bouches du hangar d'une lumière blanche.
+- **Ce qu'on entend :** la voix d'Héloïse dans tous les haut-parleurs de la Ruche à la fois, par-dessus la berceuse d'Aster, qui se tait. Puis un silence, et le bourdonnement des capsules.
+- **Héloïse en personne :** si le groupe accepte de lui parler face à face, une navette blanche se pose dans le hangar, à côté de la leur. Héloïse en descend seule : une silhouette longue et blanche, dont la bande lumineuse éclaire le givre autour d'elle (voir son portrait). Elle s'arrête à quelques pas, salue chacun d'un signe de tête, et attend. Sinon, elle parle par les haut-parleurs et les écrans du hangar.
+- **Qui est là :** Héloïse, et des dizaines de drones de convoi, petits et blancs, qui attendent sur les quais extérieurs, immobiles, prêts à emporter les capsules. Ils n'agissent pas tant qu'elle n'a rien décidé. Aster, s'il est encore lucide, se tient en retrait, ses bras repliés, comme un vieil employé devant sa supérieure.
 
 **Ce qui se passe :** Héloïse veut transférer les 4 000 dormeurs dans une autre Ruche. Elle est courtoise, jamais menaçante, sûre d'être du bon côté. Le compte à rebours continue d'avancer.
 
@@ -275,6 +366,12 @@ La vraie catastrophe est ailleurs : les dormeurs risquent la mort, et tout ce qu
 ## Épilogue
 
 > La navette s'éloigne. Derrière vous, la Ruche 7-Delta rapetisse, entourée des vaisseaux blancs d'Héloïse. Dans la soute, deux cents capsules ronronnent. Quelque part à l'intérieur, quelqu'un fredonne une berceuse.
+
+**Le retour à la Transhumance**, si les personnages ramènent des dormeurs :
+
+> Quand la navette se pose dans le hangar du Primus, tout le monde est là : des soignants, des mécaniciens, des enfants qu'on n'a pas réussi à coucher, des machines qui portent déjà des brancards. On décharge les capsules une à une, dans un silence de cérémonie. À l'infirmerie du Réveil, les premiers dormeurs ouvriront les yeux dans quelques jours, sur un plafond qu'ils n'ont jamais vu, dans un corps qui n'a jamais marché. Un jour, ils écriront leur nom sur le Mur des noms choisis.
+
+Si les personnages n'ont encore choisi aucun nom, c'est le moment de leur rappeler le Mur : leur propre nom peut y figurer aussi.
 
 Adaptez ce texte à ce qui s'est passé. Il n'y a pas de bonne fin, mais chaque fin ouvre une suite :
 
