@@ -13,7 +13,7 @@ visibilite: joueurs
 | Compétence | 2 × le nouveau niveau (de 2 à 3 : 6 points) | Toutes les deux séances environ |
 | Attribut | 5 × le nouveau niveau (de 3 à 4 : 20 points) | Toutes les six ou sept séances |
 
-**Ce qui ne s'achète pas :** l'[[Etincelle et Percee|Étincelle]] maximale ne progresse que par la Percée, l'[[Erosion et Ancrage|Érosion]] ne baisse que par les Liens et les moments marquants, et les [[Augmentations|augmentations]] s'obtiennent dans l'histoire, auprès d'un chirurgien ou d'un ingénieur. La créativité et la confiance se vivent.
+**Ce qui ne s'achète pas avec l'expérience :** l'[[Etincelle et Percee|Étincelle]] maximale ne progresse que par la Percée, l'[[Erosion et Ancrage|Érosion]] ne baisse que par les Liens et les moments marquants, et les [[Augmentations|augmentations]] coûtent de l'Étincelle et s'obtiennent dans l'histoire, auprès d'un chirurgien ou d'un ingénieur (voir « Obtenir une augmentation » dans [[Augmentations|Les augmentations]]). La créativité et la confiance se vivent.
 
 ## Voir aussi
 
