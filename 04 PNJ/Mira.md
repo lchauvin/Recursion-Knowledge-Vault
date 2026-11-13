@@ -16,13 +16,15 @@ faction: Aucune (dormeuse)
 
 Boulangère dans la ville d'Ambre, entourée d'amis et d'un vieux chat. Elle a le visage du rêveur, un Éveillé de la même souche K-412, avec quelques années de plus.
 
+**Son allure :** les mêmes yeux que le rêveur, la même façon de pencher la tête, mais des rides de rire qu'il n'a pas. De la farine jusqu'aux coudes, un tablier taché ; elle parle en pétrissant. Un vieux chat roux dort sur le comptoir de sa boulangerie.
+
 ## Ce qu'il veut
 
 Comprendre pourquoi ses journées se ressemblent toutes.
 
 ## Comment le jouer
 
-Chaleureuse et curieuse, puis effrayée quand le monde se fissure.
+Chaleureuse et curieuse, puis effrayée quand le monde se fissure. Quand elle voit le rêveur pour la première fois, elle se tait au milieu d'une phrase, puis éclate de rire, parce qu'elle ne sait pas quoi faire d'autre.
 
 **Réplique :** « Tu as mon visage. Est-ce que tu as aussi mes rêves ? »
 

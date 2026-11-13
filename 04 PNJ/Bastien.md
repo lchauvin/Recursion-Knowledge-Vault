@@ -16,6 +16,8 @@ faction: Nexus
 
 Un vieux dormeur qui sait qu'il rêve, contact du Nexus dans la ville d'Ambre.
 
+**Son allure :** un vieil homme en gilet de laine, assis sur le même banc depuis des années, un sac de miettes sur les genoux. Les pigeons qu'il nourrit refont exactement le même vol toutes les trois minutes, et il les regarde avec tendresse, comme on regarde une vieille horloge. L'œil vif, un sourire en coin.
+
 ## Ce qu'il veut
 
 Qu'on le laisse dormir : il ne veut pas se réveiller.

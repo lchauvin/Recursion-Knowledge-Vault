@@ -36,7 +36,7 @@ Les humains se soignent avec Médecine, les machines se réparent avec Ingénier
 | Situation | Soin | Difficulté | Résultat |
 | --- | --- | --- | --- |
 | Blessure légère | Premiers soins, pendant une pause de quelques minutes | 1 | Le malus disparaît jusqu'au prochain repos, qui guérit la blessure. Une seule fois par blessure |
-| Blessure grave | Soins médicaux, avec du matériel | 2 (1 dans une vraie infirmerie, comme le Réveil du [[La flotte de la Transhumance\|Primus]]) | En une semaine environ, elle devient légère, puis guérit au repos suivant |
+| Blessure grave | Soins médicaux, avec du matériel | 2 (1 dans une vraie infirmerie, comme le Réveil du [[La flotte de la Transhumance#Le Primus\|Primus]]) | En une semaine environ, elle devient légère, puis guérit au repos suivant |
 | Blessure grave non soignée | Aucun | | Elle finit par guérir, mais laisse une séquelle |
 | Blessure critique | Stabiliser, sur place | 1 au calme, 2 sous le feu | Le personnage ne meurt plus, mais reste hors de combat. Une fois dans une infirmerie, il se soigne comme une blessure grave |
 

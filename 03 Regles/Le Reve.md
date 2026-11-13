@@ -79,7 +79,7 @@ Les Portes sont nombreuses là où sont les dormeurs, et rares ailleurs.
 | Lieu | Portes | Le vrai problème |
 | --- | --- | --- |
 | Une [[Les Ruches\|Ruche]] | Partout : chaque capsule peut servir de Porte | Entrer dans la Ruche, et y garder son corps |
-| Le [[Nexus]] (le [[La flotte de la Transhumance\|Primus]], ses bases) | Un ou deux terminaux piratés | Ils sont précieux et surveillés ; on attend parfois son tour |
+| Le [[Nexus]] (le [[La flotte de la Transhumance#Le Primus\|Primus]], ses bases) | Un ou deux terminaux piratés | Ils sont précieux et surveillés ; on attend parfois son tour |
 | Les [[Bergers]] | Leurs relais | Ils sont sûrs, mais on entre chez eux, sous leurs yeux |
 | Ailleurs (la Terre sauvage, les épaves, la Ceinture) | Presque aucune | Il faut apporter sa Porte (une capsule récupérée, un terminal de fortune) ou avoir une [[Augmentations\|interface neurale]] |
 | Chez les [[Purs]] | Aucune | Ils détruisent celles qu'ils trouvent |

@@ -17,13 +17,15 @@ faction: Bergers
 
 Une machine élégante et calme, sincèrement attachée aux dormeurs.
 
+**Son allure :** un corps de la mission, comme [[Aster]] (voir [[L aspect des machines|L'aspect des machines]]), mais impeccable : long, blanc, sans une rayure, les bras fins repliés contre le torse comme les mains d'une infirmière. Sa tête est un ovale lisse, traversé d'une bande de lumière douce qui s'éclaire quand elle parle. Face à Aster, elle montre ce qu'il aurait pu rester : la même machine, sans l'Érosion.
+
 ## Ce qu'il veut
 
 Sauver les 4 000, pas 200.
 
 ## Comment le jouer
 
-Courtoise, jamais menaçante, sûre d'être du bon côté.
+Courtoise, jamais menaçante, sûre d'être du bon côté. Sa voix est calme, presque maternelle, jamais pressée. Elle dit « mes dormeurs ». Elle ne hausse jamais le ton : quand elle n'est pas d'accord, elle se tait un instant, et ce silence pèse plus lourd qu'une menace.
 
 **Réplique :** « Vous en sauvez deux cents. Je les sauve tous. Lequel de nous deux est le monstre ? »
 

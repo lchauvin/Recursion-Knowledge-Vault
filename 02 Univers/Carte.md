@@ -65,10 +65,13 @@ Les lieux placés dans l'encadré réservé au MJ, et ceux dont la page est rés
 | Les colonies cachées | La Ceinture d'astéroïdes | lieu | 7 | 250 |  | Des dizaines de petites communautés dont l'emplacement est un secret. On n'y entre qu'invité. |
 | [[Les Ruches]] | La Ceinture d'astéroïdes | ruche | 4.5 | 300 |  |  |
 | [[La flotte de la Transhumance]] | La Ceinture d'astéroïdes | flotte | 8 | 80 | Grand-Halte |  |
-| Le Primus | La flotte de la Transhumance | station | 0.8 | 0 |  | Le vaisseau-amiral, un ancien transporteur de la mission qui emmène désormais les réveillés dans l'autre sens. |
+| [[La flotte de la Transhumance#Le Primus\|Le Primus]] | La flotte de la Transhumance | station | 0.8 | 0 |  | Le vaisseau-amiral, un ancien transporteur de la mission qui emmène désormais les réveillés dans l'autre sens. |
+| La Colonne | Le Primus | lieu | 0.06 | 60 |  | La coursive principale, qui traverse le vaisseau de bout en bout : des câbles réparés cent fois, des dessins d'enfants, tous les bruits du bord. |
+| Les Alvéoles | Le Primus | zone | 0.15 | 120 |  | Les anciennes salles de capsules, où les familles vivent dans les niches, entre des toiles tendues. |
 | Le Réveil | Le Primus | lieu | 0.16 | 90 |  | L'infirmerie des dormeurs fraîchement réveillés, qui apprennent à respirer, à manger, à tenir debout. |
 | Le Mur des noms choisis | Le Primus | lieu | 0.18 | 30 |  | Une paroi où chaque réveillé écrit le nom qu'il s'est choisi. |
 | Le Marché | Le Primus | lieu | 0.15 | 330 |  | Une coursive où l'on échange tout, des pièces détachées aux chansons. |
+| Le Comptoir | Le Marché | lieu | 0.03 | 300 |  | Un coin du Marché où une machine sert quelque chose de chaud à ceux qui travaillent la nuit. Trois tabourets soudés au sol. |
 | Les Serres | Le Primus | zone | 0.17 | 260 |  | Le seul endroit à bord où il fait chaud et où ça sent la terre. |
 | La Salle du Conseil | Le Primus | lieu | 0.14 | 200 |  | Où le conseil de la flotte décide des routes, des haltes et des sauvetages. |
 | Les hangars | Le Primus | lieu | 0.18 | 150 |  | Les navettes de la flotte. |

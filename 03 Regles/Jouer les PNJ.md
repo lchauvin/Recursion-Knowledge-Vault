@@ -95,7 +95,7 @@ Ils savent qu'ils rêvent, sans pouvoir ou sans vouloir se réveiller (voir [[Le
 
 ## Les réveillés
 
-Les dormeurs fraîchement tirés du Rêve, à l'infirmerie du [[La flotte de la Transhumance|Primus]] ou ailleurs. Leur corps n'a jamais marché ; leur esprit vient de perdre son monde.
+Les dormeurs fraîchement tirés du Rêve, à l'infirmerie du [[La flotte de la Transhumance#Le Primus|Primus]] ou ailleurs. Leur corps n'a jamais marché ; leur esprit vient de perdre son monde.
 
 - **Le corps :** faible, maladroit, qui a froid. Respirer, manger, tenir debout sont des épreuves.
 - **Le deuil :** ils pleurent une vie, des amis, parfois des enfants restés dans le Rêve. Beaucoup ont la nostalgie de la douceur perdue.
